@@ -1,0 +1,11 @@
+sku,item_name,category,unit_cost
+S01,Salmon Roll,Sushi,4.1
+S02,Spicy Tuna Roll,Sushi,4.85
+S03,California Roll,Sushi,3.15
+S04,Dragon Roll,Specialty Sushi,6.2
+S05,Rainbow Roll,Specialty Sushi,7.35
+S06,Gyoza,Appetizer,2.05
+S07,Chicken Teriyaki,Kitchen,
+S08,Shrimp Tempura,Kitchen,5.9
+S09,Miso Soup,Side,0.85
+S10,Green Tea,Beverage,0.35

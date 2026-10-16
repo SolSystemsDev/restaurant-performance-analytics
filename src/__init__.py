@@ -1,0 +1,1 @@
+"""Restaurant performance analytics demonstration."""

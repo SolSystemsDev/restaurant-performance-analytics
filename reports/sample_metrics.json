@@ -1,0 +1,218 @@
+{
+  "period_start": "2026-07-01",
+  "period_end": "2026-07-28",
+  "is_synthetic": true,
+  "overview": {
+    "transactions": 1602,
+    "gross_sales": 58221.0,
+    "discounts": 1795.53,
+    "net_sales": 56425.47,
+    "average_transaction_net": 35.22,
+    "discount_rate_pct": 3.08,
+    "paid_labor_hours": 1576.0,
+    "direct_hourly_wages": 20908.0,
+    "sales_per_paid_labor_hour": 35.8,
+    "wage_cost_pct_net_sales": 37.05,
+    "known_item_cogs_partial": 15230.25,
+    "cost_coverage_by_gross_sales_pct": 84.42,
+    "full_menu_cost_coverage": false,
+    "modeled_contribution_after_known_cogs_and_hourly_wages": null,
+    "dine_in_missing_cover_orders": 48,
+    "dine_in_orders": 1015
+  },
+  "channels": [
+    {
+      "channel": "Dine-in",
+      "orders": 1015,
+      "net_sales": 36392.85
+    },
+    {
+      "channel": "Pickup",
+      "orders": 306,
+      "net_sales": 10368.32
+    },
+    {
+      "channel": "Delivery",
+      "orders": 281,
+      "net_sales": 9664.3
+    }
+  ],
+  "daily": [
+    {
+      "date": "2026-07-01",
+      "orders": 47,
+      "net_sales": 1651.2
+    },
+    {
+      "date": "2026-07-02",
+      "orders": 58,
+      "net_sales": 2018.02
+    },
+    {
+      "date": "2026-07-03",
+      "orders": 68,
+      "net_sales": 2761.78
+    },
+    {
+      "date": "2026-07-04",
+      "orders": 58,
+      "net_sales": 1874.53
+    },
+    {
+      "date": "2026-07-05",
+      "orders": 82,
+      "net_sales": 2858.9
+    },
+    {
+      "date": "2026-07-06",
+      "orders": 39,
+      "net_sales": 1284.36
+    },
+    {
+      "date": "2026-07-07",
+      "orders": 47,
+      "net_sales": 1395.96
+    },
+    {
+      "date": "2026-07-08",
+      "orders": 41,
+      "net_sales": 1306.62
+    },
+    {
+      "date": "2026-07-09",
+      "orders": 55,
+      "net_sales": 1857.34
+    },
+    {
+      "date": "2026-07-10",
+      "orders": 64,
+      "net_sales": 2619.32
+    },
+    {
+      "date": "2026-07-11",
+      "orders": 60,
+      "net_sales": 2067.8
+    },
+    {
+      "date": "2026-07-12",
+      "orders": 60,
+      "net_sales": 2224.06
+    },
+    {
+      "date": "2026-07-13",
+      "orders": 49,
+      "net_sales": 1714.7
+    },
+    {
+      "date": "2026-07-14",
+      "orders": 44,
+      "net_sales": 1546.8
+    },
+    {
+      "date": "2026-07-15",
+      "orders": 47,
+      "net_sales": 1695.48
+    },
+    {
+      "date": "2026-07-16",
+      "orders": 53,
+      "net_sales": 1645.04
+    },
+    {
+      "date": "2026-07-17",
+      "orders": 69,
+      "net_sales": 2488.06
+    },
+    {
+      "date": "2026-07-18",
+      "orders": 77,
+      "net_sales": 2664.32
+    },
+    {
+      "date": "2026-07-19",
+      "orders": 57,
+      "net_sales": 2036.9
+    },
+    {
+      "date": "2026-07-20",
+      "orders": 36,
+      "net_sales": 1212.82
+    },
+    {
+      "date": "2026-07-21",
+      "orders": 58,
+      "net_sales": 2160.92
+    },
+    {
+      "date": "2026-07-22",
+      "orders": 56,
+      "net_sales": 1935.98
+    },
+    {
+      "date": "2026-07-23",
+      "orders": 56,
+      "net_sales": 1952.18
+    },
+    {
+      "date": "2026-07-24",
+      "orders": 68,
+      "net_sales": 2350.98
+    },
+    {
+      "date": "2026-07-25",
+      "orders": 82,
+      "net_sales": 3091.1
+    },
+    {
+      "date": "2026-07-26",
+      "orders": 62,
+      "net_sales": 2128.76
+    },
+    {
+      "date": "2026-07-27",
+      "orders": 55,
+      "net_sales": 2042.98
+    },
+    {
+      "date": "2026-07-28",
+      "orders": 54,
+      "net_sales": 1838.56
+    }
+  ],
+  "top_items": [
+    {
+      "sku": "S07",
+      "item": "Chicken Teriyaki",
+      "units": 504,
+      "gross_sales": 9072.0
+    },
+    {
+      "sku": "S02",
+      "item": "Spicy Tuna Roll",
+      "units": 591,
+      "gross_sales": 8865.0
+    },
+    {
+      "sku": "S01",
+      "item": "Salmon Roll",
+      "units": 561,
+      "gross_sales": 7854.0
+    },
+    {
+      "sku": "S04",
+      "item": "Dragon Roll",
+      "units": 406,
+      "gross_sales": 7714.0
+    },
+    {
+      "sku": "S05",
+      "item": "Rainbow Roll",
+      "units": 364,
+      "gross_sales": 7280.0
+    }
+  ],
+  "warnings": [
+    "Some menu items lack unit costs. Known-item COGS is partial; no overall contribution margin is reported.",
+    "Some dine-in transactions have unknown covers. Revenue per guest is not computed."
+  ]
+}

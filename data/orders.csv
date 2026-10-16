@@ -1,0 +1,1603 @@
+order_id,order_date,order_time,daypart,channel,guest_count,promotion,discount_amount
+ORD00001,2026-07-01,17:15,Dinner,Dine-in,2,None,0.00
+ORD00002,2026-07-01,12:38,Lunch,Pickup,,None,0.00
+ORD00003,2026-07-01,18:45,Dinner,Dine-in,1,Happy Hour,6.84
+ORD00004,2026-07-01,19:10,Dinner,Pickup,,None,0.00
+ORD00005,2026-07-01,21:23,Dinner,Pickup,,None,0.00
+ORD00006,2026-07-01,18:18,Dinner,Pickup,,None,0.00
+ORD00007,2026-07-01,19:48,Dinner,Dine-in,3,None,0.00
+ORD00008,2026-07-01,19:42,Dinner,Dine-in,2,None,0.00
+ORD00009,2026-07-01,11:23,Lunch,Dine-in,3,None,0.00
+ORD00010,2026-07-01,21:22,Dinner,Dine-in,2,None,0.00
+ORD00011,2026-07-01,12:46,Lunch,Dine-in,3,None,0.00
+ORD00012,2026-07-01,18:18,Dinner,Dine-in,5,None,0.00
+ORD00013,2026-07-01,14:10,Lunch,Dine-in,3,None,0.00
+ORD00014,2026-07-01,18:23,Dinner,Dine-in,3,Voucher,10.50
+ORD00015,2026-07-01,13:30,Lunch,Dine-in,3,None,0.00
+ORD00016,2026-07-01,17:14,Dinner,Dine-in,2,None,0.00
+ORD00017,2026-07-01,14:24,Lunch,Delivery,,None,0.00
+ORD00018,2026-07-01,20:27,Dinner,Pickup,,None,0.00
+ORD00019,2026-07-01,14:00,Lunch,Pickup,,None,0.00
+ORD00020,2026-07-01,18:40,Dinner,Dine-in,5,None,0.00
+ORD00021,2026-07-01,19:32,Dinner,Delivery,,Voucher,0.00
+ORD00022,2026-07-01,14:36,Lunch,Dine-in,,None,0.00
+ORD00023,2026-07-01,11:28,Lunch,Dine-in,5,None,0.00
+ORD00024,2026-07-01,21:32,Dinner,Dine-in,,None,0.00
+ORD00025,2026-07-01,12:41,Lunch,Pickup,,None,0.00
+ORD00026,2026-07-01,13:58,Lunch,Dine-in,5,None,0.00
+ORD00027,2026-07-01,17:23,Dinner,Dine-in,5,None,0.00
+ORD00028,2026-07-01,13:36,Lunch,Pickup,,Happy Hour,2.88
+ORD00029,2026-07-01,20:54,Dinner,Dine-in,,None,0.00
+ORD00030,2026-07-01,13:46,Lunch,Dine-in,2,Voucher,12.00
+ORD00031,2026-07-01,12:37,Lunch,Dine-in,3,None,0.00
+ORD00032,2026-07-01,18:02,Dinner,Dine-in,3,None,0.00
+ORD00033,2026-07-01,14:20,Lunch,Dine-in,3,None,0.00
+ORD00034,2026-07-01,14:56,Lunch,Dine-in,2,None,0.00
+ORD00035,2026-07-01,14:14,Lunch,Pickup,,None,0.00
+ORD00036,2026-07-01,21:35,Dinner,Dine-in,4,None,0.00
+ORD00037,2026-07-01,13:40,Lunch,Pickup,,None,0.00
+ORD00038,2026-07-01,20:19,Dinner,Dine-in,5,None,0.00
+ORD00039,2026-07-01,14:21,Lunch,Dine-in,1,Happy Hour,4.20
+ORD00040,2026-07-01,12:45,Lunch,Dine-in,4,None,0.00
+ORD00041,2026-07-01,11:51,Lunch,Pickup,,None,0.00
+ORD00042,2026-07-01,18:47,Dinner,Pickup,,None,0.00
+ORD00043,2026-07-01,14:04,Lunch,Pickup,,None,0.00
+ORD00044,2026-07-01,14:17,Lunch,Delivery,,None,0.00
+ORD00045,2026-07-01,20:16,Dinner,Dine-in,2,Happy Hour,8.88
+ORD00046,2026-07-01,13:28,Lunch,Pickup,,None,0.00
+ORD00047,2026-07-01,11:00,Lunch,Dine-in,2,None,0.00
+ORD00048,2026-07-02,19:38,Dinner,Dine-in,1,None,0.00
+ORD00049,2026-07-02,20:51,Dinner,Dine-in,3,None,0.00
+ORD00050,2026-07-02,11:35,Lunch,Dine-in,1,None,0.00
+ORD00051,2026-07-02,14:58,Lunch,Dine-in,4,None,0.00
+ORD00052,2026-07-02,20:42,Dinner,Dine-in,3,None,0.00
+ORD00053,2026-07-02,12:31,Lunch,Delivery,,None,0.00
+ORD00054,2026-07-02,14:21,Lunch,Delivery,,None,0.00
+ORD00055,2026-07-02,12:08,Lunch,Dine-in,3,None,0.00
+ORD00056,2026-07-02,13:37,Lunch,Dine-in,2,Happy Hour,4.32
+ORD00057,2026-07-02,20:09,Dinner,Dine-in,4,Happy Hour,6.00
+ORD00058,2026-07-02,14:39,Lunch,Delivery,,Happy Hour,6.60
+ORD00059,2026-07-02,17:48,Dinner,Pickup,,None,0.00
+ORD00060,2026-07-02,14:40,Lunch,Delivery,,None,0.00
+ORD00061,2026-07-02,11:26,Lunch,Dine-in,1,None,0.00
+ORD00062,2026-07-02,20:47,Dinner,Pickup,,None,0.00
+ORD00063,2026-07-02,17:39,Dinner,Delivery,,None,0.00
+ORD00064,2026-07-02,17:27,Dinner,Dine-in,4,None,0.00
+ORD00065,2026-07-02,14:51,Lunch,Delivery,,None,0.00
+ORD00066,2026-07-02,21:41,Dinner,Dine-in,2,None,0.00
+ORD00067,2026-07-02,21:56,Dinner,Pickup,,None,0.00
+ORD00068,2026-07-02,19:36,Dinner,Delivery,,Voucher,0.00
+ORD00069,2026-07-02,13:46,Lunch,Dine-in,5,Happy Hour,5.40
+ORD00070,2026-07-02,11:10,Lunch,Dine-in,2,None,0.00
+ORD00071,2026-07-02,21:41,Dinner,Dine-in,2,None,0.00
+ORD00072,2026-07-02,11:11,Lunch,Pickup,,None,0.00
+ORD00073,2026-07-02,14:10,Lunch,Dine-in,2,Happy Hour,3.12
+ORD00074,2026-07-02,14:07,Lunch,Dine-in,1,None,0.00
+ORD00075,2026-07-02,20:46,Dinner,Dine-in,1,Voucher,0.00
+ORD00076,2026-07-02,12:11,Lunch,Delivery,,None,0.00
+ORD00077,2026-07-02,11:58,Lunch,Delivery,,None,0.00
+ORD00078,2026-07-02,13:37,Lunch,Dine-in,4,None,0.00
+ORD00079,2026-07-02,19:32,Dinner,Dine-in,3,None,0.00
+ORD00080,2026-07-02,13:16,Lunch,Dine-in,,None,0.00
+ORD00081,2026-07-02,14:30,Lunch,Dine-in,1,None,0.00
+ORD00082,2026-07-02,19:01,Dinner,Dine-in,1,None,0.00
+ORD00083,2026-07-02,12:32,Lunch,Pickup,,Voucher,0.00
+ORD00084,2026-07-02,11:38,Lunch,Dine-in,,None,0.00
+ORD00085,2026-07-02,13:06,Lunch,Dine-in,,None,0.00
+ORD00086,2026-07-02,18:22,Dinner,Dine-in,3,None,0.00
+ORD00087,2026-07-02,11:13,Lunch,Pickup,,Happy Hour,3.12
+ORD00088,2026-07-02,17:07,Dinner,Dine-in,,None,0.00
+ORD00089,2026-07-02,18:04,Dinner,Dine-in,3,None,0.00
+ORD00090,2026-07-02,18:45,Dinner,Dine-in,4,None,0.00
+ORD00091,2026-07-02,11:59,Lunch,Dine-in,3,Happy Hour,2.64
+ORD00092,2026-07-02,11:10,Lunch,Dine-in,4,None,0.00
+ORD00093,2026-07-02,20:58,Dinner,Pickup,,None,0.00
+ORD00094,2026-07-02,18:45,Dinner,Dine-in,3,None,0.00
+ORD00095,2026-07-02,13:19,Lunch,Dine-in,4,Happy Hour,5.04
+ORD00096,2026-07-02,18:49,Dinner,Dine-in,5,Happy Hour,6.24
+ORD00097,2026-07-02,17:23,Dinner,Dine-in,1,None,0.00
+ORD00098,2026-07-02,20:12,Dinner,Delivery,,Voucher,12.00
+ORD00099,2026-07-02,20:15,Dinner,Delivery,,None,0.00
+ORD00100,2026-07-02,11:04,Lunch,Dine-in,5,None,0.00
+ORD00101,2026-07-02,17:35,Dinner,Dine-in,,None,0.00
+ORD00102,2026-07-02,18:27,Dinner,Pickup,,None,0.00
+ORD00103,2026-07-02,20:01,Dinner,Dine-in,5,None,0.00
+ORD00104,2026-07-02,12:25,Lunch,Delivery,,None,0.00
+ORD00105,2026-07-02,18:59,Dinner,Delivery,,Voucher,0.00
+ORD00106,2026-07-03,14:19,Lunch,Delivery,,None,0.00
+ORD00107,2026-07-03,12:11,Lunch,Dine-in,3,None,0.00
+ORD00108,2026-07-03,18:13,Dinner,Dine-in,2,Voucher,0.00
+ORD00109,2026-07-03,17:41,Dinner,Dine-in,3,None,0.00
+ORD00110,2026-07-03,19:31,Dinner,Pickup,,None,0.00
+ORD00111,2026-07-03,14:01,Lunch,Dine-in,3,None,0.00
+ORD00112,2026-07-03,13:53,Lunch,Delivery,,None,0.00
+ORD00113,2026-07-03,12:10,Lunch,Dine-in,1,None,0.00
+ORD00114,2026-07-03,14:28,Lunch,Pickup,,Happy Hour,5.76
+ORD00115,2026-07-03,13:50,Lunch,Delivery,,Happy Hour,1.68
+ORD00116,2026-07-03,20:53,Dinner,Delivery,,None,0.00
+ORD00117,2026-07-03,18:25,Dinner,Dine-in,1,None,0.00
+ORD00118,2026-07-03,20:20,Dinner,Delivery,,None,0.00
+ORD00119,2026-07-03,11:10,Lunch,Dine-in,2,None,0.00
+ORD00120,2026-07-03,19:42,Dinner,Dine-in,5,None,0.00
+ORD00121,2026-07-03,12:57,Lunch,Dine-in,4,None,0.00
+ORD00122,2026-07-03,19:32,Dinner,Pickup,,None,0.00
+ORD00123,2026-07-03,18:15,Dinner,Dine-in,4,None,0.00
+ORD00124,2026-07-03,21:16,Dinner,Dine-in,4,None,0.00
+ORD00125,2026-07-03,20:25,Dinner,Dine-in,5,Happy Hour,2.52
+ORD00126,2026-07-03,18:11,Dinner,Dine-in,1,None,0.00
+ORD00127,2026-07-03,19:27,Dinner,Delivery,,None,0.00
+ORD00128,2026-07-03,12:38,Lunch,Dine-in,3,None,0.00
+ORD00129,2026-07-03,14:19,Lunch,Dine-in,5,None,0.00
+ORD00130,2026-07-03,11:51,Lunch,Delivery,,Happy Hour,2.16
+ORD00131,2026-07-03,14:30,Lunch,Dine-in,3,None,0.00
+ORD00132,2026-07-03,19:02,Dinner,Pickup,,None,0.00
+ORD00133,2026-07-03,13:42,Lunch,Pickup,,None,0.00
+ORD00134,2026-07-03,13:28,Lunch,Dine-in,3,None,0.00
+ORD00135,2026-07-03,19:26,Dinner,Pickup,,None,0.00
+ORD00136,2026-07-03,14:10,Lunch,Dine-in,4,Happy Hour,6.12
+ORD00137,2026-07-03,11:25,Lunch,Dine-in,4,None,0.00
+ORD00138,2026-07-03,13:10,Lunch,Dine-in,2,None,0.00
+ORD00139,2026-07-03,11:03,Lunch,Pickup,,None,0.00
+ORD00140,2026-07-03,19:27,Dinner,Dine-in,3,Happy Hour,3.60
+ORD00141,2026-07-03,14:49,Lunch,Dine-in,,None,0.00
+ORD00142,2026-07-03,13:31,Lunch,Dine-in,2,None,0.00
+ORD00143,2026-07-03,20:27,Dinner,Delivery,,None,0.00
+ORD00144,2026-07-03,20:40,Dinner,Dine-in,3,None,0.00
+ORD00145,2026-07-03,13:23,Lunch,Pickup,,None,0.00
+ORD00146,2026-07-03,19:46,Dinner,Pickup,,None,0.00
+ORD00147,2026-07-03,11:09,Lunch,Dine-in,4,None,0.00
+ORD00148,2026-07-03,19:32,Dinner,Dine-in,1,None,0.00
+ORD00149,2026-07-03,14:14,Lunch,Pickup,,None,0.00
+ORD00150,2026-07-03,14:31,Lunch,Delivery,,None,0.00
+ORD00151,2026-07-03,11:33,Lunch,Dine-in,2,None,0.00
+ORD00152,2026-07-03,11:47,Lunch,Pickup,,Voucher,12.00
+ORD00153,2026-07-03,17:21,Dinner,Dine-in,3,None,0.00
+ORD00154,2026-07-03,21:15,Dinner,Dine-in,1,None,0.00
+ORD00155,2026-07-03,20:50,Dinner,Dine-in,5,None,0.00
+ORD00156,2026-07-03,12:06,Lunch,Dine-in,2,None,0.00
+ORD00157,2026-07-03,12:15,Lunch,Dine-in,1,Happy Hour,3.84
+ORD00158,2026-07-03,14:18,Lunch,Dine-in,4,None,0.00
+ORD00159,2026-07-03,21:50,Dinner,Delivery,,None,0.00
+ORD00160,2026-07-03,18:19,Dinner,Delivery,,None,0.00
+ORD00161,2026-07-03,17:50,Dinner,Dine-in,5,None,0.00
+ORD00162,2026-07-03,21:24,Dinner,Dine-in,1,None,0.00
+ORD00163,2026-07-03,12:33,Lunch,Delivery,,None,0.00
+ORD00164,2026-07-03,18:59,Dinner,Pickup,,None,0.00
+ORD00165,2026-07-03,20:18,Dinner,Delivery,,None,0.00
+ORD00166,2026-07-03,13:21,Lunch,Delivery,,Happy Hour,3.84
+ORD00167,2026-07-03,13:10,Lunch,Pickup,,None,0.00
+ORD00168,2026-07-03,14:03,Lunch,Pickup,,None,0.00
+ORD00169,2026-07-03,14:41,Lunch,Dine-in,2,None,0.00
+ORD00170,2026-07-03,14:01,Lunch,Dine-in,3,None,0.00
+ORD00171,2026-07-03,11:30,Lunch,Dine-in,5,None,0.00
+ORD00172,2026-07-03,19:46,Dinner,Dine-in,1,None,0.00
+ORD00173,2026-07-03,19:19,Dinner,Dine-in,5,Voucher,8.70
+ORD00174,2026-07-04,20:25,Dinner,Dine-in,2,None,0.00
+ORD00175,2026-07-04,20:46,Dinner,Dine-in,1,None,0.00
+ORD00176,2026-07-04,14:07,Lunch,Dine-in,3,None,0.00
+ORD00177,2026-07-04,11:30,Lunch,Dine-in,2,Happy Hour,4.08
+ORD00178,2026-07-04,14:04,Lunch,Delivery,,None,0.00
+ORD00179,2026-07-04,20:44,Dinner,Delivery,,Happy Hour,5.28
+ORD00180,2026-07-04,21:03,Dinner,Dine-in,1,None,0.00
+ORD00181,2026-07-04,14:38,Lunch,Dine-in,5,None,0.00
+ORD00182,2026-07-04,13:47,Lunch,Dine-in,1,None,0.00
+ORD00183,2026-07-04,11:44,Lunch,Delivery,,None,0.00
+ORD00184,2026-07-04,12:50,Lunch,Dine-in,3,None,0.00
+ORD00185,2026-07-04,11:12,Lunch,Dine-in,4,None,0.00
+ORD00186,2026-07-04,18:56,Dinner,Dine-in,2,Happy Hour,10.08
+ORD00187,2026-07-04,21:42,Dinner,Delivery,,None,0.00
+ORD00188,2026-07-04,17:28,Dinner,Pickup,,None,0.00
+ORD00189,2026-07-04,18:41,Dinner,Pickup,,None,0.00
+ORD00190,2026-07-04,20:20,Dinner,Pickup,,None,0.00
+ORD00191,2026-07-04,14:34,Lunch,Dine-in,5,None,0.00
+ORD00192,2026-07-04,17:55,Dinner,Dine-in,5,Voucher,8.40
+ORD00193,2026-07-04,14:26,Lunch,Dine-in,2,None,0.00
+ORD00194,2026-07-04,19:10,Dinner,Dine-in,3,None,0.00
+ORD00195,2026-07-04,13:01,Lunch,Dine-in,5,None,0.00
+ORD00196,2026-07-04,11:05,Lunch,Delivery,,None,0.00
+ORD00197,2026-07-04,18:29,Dinner,Pickup,,Happy Hour,4.80
+ORD00198,2026-07-04,18:15,Dinner,Dine-in,3,Happy Hour,6.84
+ORD00199,2026-07-04,11:44,Lunch,Dine-in,2,Voucher,10.35
+ORD00200,2026-07-04,12:43,Lunch,Dine-in,5,Voucher,12.00
+ORD00201,2026-07-04,20:48,Dinner,Delivery,,None,0.00
+ORD00202,2026-07-04,21:49,Dinner,Dine-in,3,None,0.00
+ORD00203,2026-07-04,19:08,Dinner,Dine-in,2,Voucher,0.00
+ORD00204,2026-07-04,13:46,Lunch,Dine-in,4,None,0.00
+ORD00205,2026-07-04,12:46,Lunch,Pickup,,None,0.00
+ORD00206,2026-07-04,18:33,Dinner,Pickup,,None,0.00
+ORD00207,2026-07-04,17:34,Dinner,Dine-in,,None,0.00
+ORD00208,2026-07-04,13:56,Lunch,Delivery,,Voucher,8.10
+ORD00209,2026-07-04,17:14,Dinner,Dine-in,2,None,0.00
+ORD00210,2026-07-04,11:57,Lunch,Dine-in,2,None,0.00
+ORD00211,2026-07-04,19:19,Dinner,Dine-in,4,None,0.00
+ORD00212,2026-07-04,12:32,Lunch,Dine-in,5,None,0.00
+ORD00213,2026-07-04,12:01,Lunch,Dine-in,4,None,0.00
+ORD00214,2026-07-04,13:04,Lunch,Dine-in,4,None,0.00
+ORD00215,2026-07-04,20:47,Dinner,Delivery,,Happy Hour,0.48
+ORD00216,2026-07-04,20:06,Dinner,Dine-in,3,None,0.00
+ORD00217,2026-07-04,12:12,Lunch,Delivery,,None,0.00
+ORD00218,2026-07-04,11:51,Lunch,Pickup,,Happy Hour,5.76
+ORD00219,2026-07-04,13:22,Lunch,Dine-in,3,Happy Hour,9.36
+ORD00220,2026-07-04,13:41,Lunch,Pickup,,None,0.00
+ORD00221,2026-07-04,11:44,Lunch,Dine-in,3,None,0.00
+ORD00222,2026-07-04,20:57,Dinner,Dine-in,1,None,0.00
+ORD00223,2026-07-04,21:14,Dinner,Pickup,,None,0.00
+ORD00224,2026-07-04,17:51,Dinner,Dine-in,2,None,0.00
+ORD00225,2026-07-04,19:22,Dinner,Dine-in,4,None,0.00
+ORD00226,2026-07-04,20:49,Dinner,Dine-in,4,None,0.00
+ORD00227,2026-07-04,11:45,Lunch,Delivery,,Happy Hour,3.72
+ORD00228,2026-07-04,17:23,Dinner,Dine-in,2,None,0.00
+ORD00229,2026-07-04,12:15,Lunch,Delivery,,Happy Hour,5.04
+ORD00230,2026-07-04,21:40,Dinner,Pickup,,None,0.00
+ORD00231,2026-07-04,13:51,Lunch,Pickup,,Happy Hour,4.68
+ORD00232,2026-07-05,21:13,Dinner,Dine-in,2,None,0.00
+ORD00233,2026-07-05,14:04,Lunch,Pickup,,None,0.00
+ORD00234,2026-07-05,11:05,Lunch,Pickup,,None,0.00
+ORD00235,2026-07-05,21:59,Dinner,Delivery,,None,0.00
+ORD00236,2026-07-05,21:10,Dinner,Delivery,,None,0.00
+ORD00237,2026-07-05,11:04,Lunch,Dine-in,2,None,0.00
+ORD00238,2026-07-05,13:57,Lunch,Dine-in,4,None,0.00
+ORD00239,2026-07-05,19:03,Dinner,Pickup,,None,0.00
+ORD00240,2026-07-05,21:25,Dinner,Dine-in,1,None,0.00
+ORD00241,2026-07-05,20:45,Dinner,Dine-in,3,None,0.00
+ORD00242,2026-07-05,18:39,Dinner,Dine-in,3,None,0.00
+ORD00243,2026-07-05,19:15,Dinner,Dine-in,4,None,0.00
+ORD00244,2026-07-05,13:09,Lunch,Dine-in,5,None,0.00
+ORD00245,2026-07-05,17:12,Dinner,Pickup,,None,0.00
+ORD00246,2026-07-05,18:32,Dinner,Delivery,,Happy Hour,2.04
+ORD00247,2026-07-05,21:22,Dinner,Dine-in,2,None,0.00
+ORD00248,2026-07-05,13:03,Lunch,Dine-in,1,None,0.00
+ORD00249,2026-07-05,17:00,Dinner,Dine-in,5,None,0.00
+ORD00250,2026-07-05,11:49,Lunch,Delivery,,Happy Hour,2.64
+ORD00251,2026-07-05,14:39,Lunch,Delivery,,None,0.00
+ORD00252,2026-07-05,12:48,Lunch,Dine-in,4,None,0.00
+ORD00253,2026-07-05,14:36,Lunch,Dine-in,4,None,0.00
+ORD00254,2026-07-05,19:48,Dinner,Dine-in,3,None,0.00
+ORD00255,2026-07-05,18:40,Dinner,Delivery,,Happy Hour,3.72
+ORD00256,2026-07-05,20:31,Dinner,Dine-in,2,None,0.00
+ORD00257,2026-07-05,18:34,Dinner,Dine-in,2,Happy Hour,10.20
+ORD00258,2026-07-05,19:23,Dinner,Dine-in,1,None,0.00
+ORD00259,2026-07-05,19:42,Dinner,Pickup,,Happy Hour,0.96
+ORD00260,2026-07-05,20:49,Dinner,Dine-in,5,None,0.00
+ORD00261,2026-07-05,11:09,Lunch,Delivery,,None,0.00
+ORD00262,2026-07-05,12:27,Lunch,Delivery,,None,0.00
+ORD00263,2026-07-05,21:25,Dinner,Dine-in,5,None,0.00
+ORD00264,2026-07-05,11:08,Lunch,Delivery,,Voucher,12.00
+ORD00265,2026-07-05,11:41,Lunch,Dine-in,2,None,0.00
+ORD00266,2026-07-05,18:50,Dinner,Pickup,,None,0.00
+ORD00267,2026-07-05,12:33,Lunch,Dine-in,4,None,0.00
+ORD00268,2026-07-05,21:17,Dinner,Dine-in,1,None,0.00
+ORD00269,2026-07-05,14:43,Lunch,Delivery,,None,0.00
+ORD00270,2026-07-05,14:15,Lunch,Dine-in,3,None,0.00
+ORD00271,2026-07-05,12:53,Lunch,Dine-in,1,None,0.00
+ORD00272,2026-07-05,21:33,Dinner,Dine-in,2,None,0.00
+ORD00273,2026-07-05,19:47,Dinner,Dine-in,2,None,0.00
+ORD00274,2026-07-05,11:06,Lunch,Pickup,,Happy Hour,8.64
+ORD00275,2026-07-05,17:05,Dinner,Dine-in,3,None,0.00
+ORD00276,2026-07-05,14:06,Lunch,Dine-in,5,None,0.00
+ORD00277,2026-07-05,18:45,Dinner,Delivery,,None,0.00
+ORD00278,2026-07-05,14:51,Lunch,Dine-in,2,None,0.00
+ORD00279,2026-07-05,14:58,Lunch,Dine-in,4,Voucher,12.00
+ORD00280,2026-07-05,18:58,Dinner,Dine-in,2,None,0.00
+ORD00281,2026-07-05,11:37,Lunch,Delivery,,None,0.00
+ORD00282,2026-07-05,20:23,Dinner,Dine-in,5,None,0.00
+ORD00283,2026-07-05,18:47,Dinner,Dine-in,4,None,0.00
+ORD00284,2026-07-05,13:19,Lunch,Dine-in,1,None,0.00
+ORD00285,2026-07-05,20:18,Dinner,Dine-in,2,None,0.00
+ORD00286,2026-07-05,19:11,Dinner,Dine-in,1,None,0.00
+ORD00287,2026-07-05,14:53,Lunch,Delivery,,None,0.00
+ORD00288,2026-07-05,19:43,Dinner,Pickup,,None,0.00
+ORD00289,2026-07-05,11:09,Lunch,Dine-in,2,Happy Hour,1.68
+ORD00290,2026-07-05,18:16,Dinner,Delivery,,None,0.00
+ORD00291,2026-07-05,19:44,Dinner,Dine-in,3,None,0.00
+ORD00292,2026-07-05,11:54,Lunch,Delivery,,None,0.00
+ORD00293,2026-07-05,19:48,Dinner,Dine-in,4,None,0.00
+ORD00294,2026-07-05,14:15,Lunch,Dine-in,1,None,0.00
+ORD00295,2026-07-05,11:58,Lunch,Dine-in,3,None,0.00
+ORD00296,2026-07-05,19:47,Dinner,Dine-in,2,None,0.00
+ORD00297,2026-07-05,13:46,Lunch,Dine-in,5,None,0.00
+ORD00298,2026-07-05,20:18,Dinner,Dine-in,4,Voucher,0.00
+ORD00299,2026-07-05,18:39,Dinner,Dine-in,,None,0.00
+ORD00300,2026-07-05,19:35,Dinner,Dine-in,3,None,0.00
+ORD00301,2026-07-05,20:09,Dinner,Dine-in,2,None,0.00
+ORD00302,2026-07-05,17:47,Dinner,Pickup,,None,0.00
+ORD00303,2026-07-05,19:28,Dinner,Dine-in,,None,0.00
+ORD00304,2026-07-05,12:03,Lunch,Delivery,,None,0.00
+ORD00305,2026-07-05,13:39,Lunch,Dine-in,3,None,0.00
+ORD00306,2026-07-05,14:15,Lunch,Dine-in,1,None,0.00
+ORD00307,2026-07-05,14:46,Lunch,Dine-in,4,None,0.00
+ORD00308,2026-07-05,18:33,Dinner,Delivery,,Happy Hour,1.80
+ORD00309,2026-07-05,21:46,Dinner,Dine-in,3,Happy Hour,4.08
+ORD00310,2026-07-05,13:04,Lunch,Dine-in,,Happy Hour,3.84
+ORD00311,2026-07-05,20:43,Dinner,Dine-in,1,None,0.00
+ORD00312,2026-07-05,12:57,Lunch,Dine-in,2,None,0.00
+ORD00313,2026-07-05,17:14,Dinner,Dine-in,4,None,0.00
+ORD00314,2026-07-06,19:56,Dinner,Delivery,,None,0.00
+ORD00315,2026-07-06,12:36,Lunch,Dine-in,1,None,0.00
+ORD00316,2026-07-06,13:02,Lunch,Dine-in,1,None,0.00
+ORD00317,2026-07-06,12:26,Lunch,Dine-in,4,None,0.00
+ORD00318,2026-07-06,18:02,Dinner,Dine-in,4,None,0.00
+ORD00319,2026-07-06,19:54,Dinner,Dine-in,,Voucher,0.00
+ORD00320,2026-07-06,19:14,Dinner,Dine-in,2,Voucher,12.00
+ORD00321,2026-07-06,21:22,Dinner,Dine-in,4,None,0.00
+ORD00322,2026-07-06,11:29,Lunch,Dine-in,3,None,0.00
+ORD00323,2026-07-06,20:56,Dinner,Dine-in,1,None,0.00
+ORD00324,2026-07-06,11:11,Lunch,Dine-in,3,None,0.00
+ORD00325,2026-07-06,20:38,Dinner,Pickup,,None,0.00
+ORD00326,2026-07-06,18:21,Dinner,Pickup,,None,0.00
+ORD00327,2026-07-06,17:32,Dinner,Delivery,,None,0.00
+ORD00328,2026-07-06,11:26,Lunch,Dine-in,4,Happy Hour,8.64
+ORD00329,2026-07-06,19:00,Dinner,Dine-in,5,None,0.00
+ORD00330,2026-07-06,18:27,Dinner,Dine-in,3,None,0.00
+ORD00331,2026-07-06,12:38,Lunch,Delivery,,Voucher,12.00
+ORD00332,2026-07-06,14:51,Lunch,Pickup,,None,0.00
+ORD00333,2026-07-06,13:26,Lunch,Delivery,,None,0.00
+ORD00334,2026-07-06,14:51,Lunch,Pickup,,None,0.00
+ORD00335,2026-07-06,20:15,Dinner,Delivery,,None,0.00
+ORD00336,2026-07-06,12:08,Lunch,Dine-in,1,None,0.00
+ORD00337,2026-07-06,13:46,Lunch,Delivery,,Happy Hour,4.08
+ORD00338,2026-07-06,13:59,Lunch,Pickup,,None,0.00
+ORD00339,2026-07-06,21:38,Dinner,Pickup,,None,0.00
+ORD00340,2026-07-06,21:14,Dinner,Delivery,,None,0.00
+ORD00341,2026-07-06,20:47,Dinner,Dine-in,1,None,0.00
+ORD00342,2026-07-06,19:59,Dinner,Pickup,,None,0.00
+ORD00343,2026-07-06,12:10,Lunch,Delivery,,None,0.00
+ORD00344,2026-07-06,19:45,Dinner,Dine-in,3,None,0.00
+ORD00345,2026-07-06,20:21,Dinner,Dine-in,1,None,0.00
+ORD00346,2026-07-06,14:23,Lunch,Dine-in,1,Happy Hour,1.32
+ORD00347,2026-07-06,20:55,Dinner,Pickup,,None,0.00
+ORD00348,2026-07-06,18:00,Dinner,Dine-in,5,None,0.00
+ORD00349,2026-07-06,14:26,Lunch,Delivery,,None,0.00
+ORD00350,2026-07-06,11:30,Lunch,Dine-in,4,Voucher,12.00
+ORD00351,2026-07-06,20:32,Dinner,Dine-in,5,None,0.00
+ORD00352,2026-07-06,20:56,Dinner,Dine-in,3,Happy Hour,2.10
+ORD00353,2026-07-07,13:49,Lunch,Pickup,,None,0.00
+ORD00354,2026-07-07,19:58,Dinner,Delivery,,None,0.00
+ORD00355,2026-07-07,21:13,Dinner,Delivery,,None,0.00
+ORD00356,2026-07-07,19:02,Dinner,Delivery,,None,0.00
+ORD00357,2026-07-07,21:09,Dinner,Dine-in,1,None,0.00
+ORD00358,2026-07-07,20:53,Dinner,Pickup,,None,0.00
+ORD00359,2026-07-07,13:13,Lunch,Dine-in,1,None,0.00
+ORD00360,2026-07-07,12:59,Lunch,Dine-in,4,None,0.00
+ORD00361,2026-07-07,13:07,Lunch,Dine-in,5,None,0.00
+ORD00362,2026-07-07,18:21,Dinner,Pickup,,None,0.00
+ORD00363,2026-07-07,13:18,Lunch,Dine-in,5,None,0.00
+ORD00364,2026-07-07,11:05,Lunch,Pickup,,Happy Hour,3.60
+ORD00365,2026-07-07,18:56,Dinner,Dine-in,5,Voucher,11.10
+ORD00366,2026-07-07,14:01,Lunch,Dine-in,2,None,0.00
+ORD00367,2026-07-07,20:34,Dinner,Pickup,,None,0.00
+ORD00368,2026-07-07,18:33,Dinner,Pickup,,None,0.00
+ORD00369,2026-07-07,17:10,Dinner,Dine-in,4,Voucher,0.00
+ORD00370,2026-07-07,13:43,Lunch,Pickup,,None,0.00
+ORD00371,2026-07-07,20:19,Dinner,Delivery,,None,0.00
+ORD00372,2026-07-07,17:42,Dinner,Dine-in,2,None,0.00
+ORD00373,2026-07-07,20:51,Dinner,Dine-in,3,None,0.00
+ORD00374,2026-07-07,14:39,Lunch,Delivery,,None,0.00
+ORD00375,2026-07-07,20:14,Dinner,Dine-in,5,None,0.00
+ORD00376,2026-07-07,13:05,Lunch,Dine-in,4,None,0.00
+ORD00377,2026-07-07,20:13,Dinner,Delivery,,None,0.00
+ORD00378,2026-07-07,11:03,Lunch,Dine-in,5,None,0.00
+ORD00379,2026-07-07,17:23,Dinner,Dine-in,2,None,0.00
+ORD00380,2026-07-07,18:04,Dinner,Dine-in,2,None,0.00
+ORD00381,2026-07-07,20:14,Dinner,Pickup,,None,0.00
+ORD00382,2026-07-07,20:25,Dinner,Dine-in,4,None,0.00
+ORD00383,2026-07-07,12:59,Lunch,Dine-in,1,None,0.00
+ORD00384,2026-07-07,20:45,Dinner,Delivery,,None,0.00
+ORD00385,2026-07-07,20:04,Dinner,Dine-in,5,None,0.00
+ORD00386,2026-07-07,13:39,Lunch,Dine-in,1,None,0.00
+ORD00387,2026-07-07,19:57,Dinner,Dine-in,1,None,0.00
+ORD00388,2026-07-07,18:51,Dinner,Delivery,,None,0.00
+ORD00389,2026-07-07,19:05,Dinner,Dine-in,2,None,0.00
+ORD00390,2026-07-07,14:59,Lunch,Delivery,,None,0.00
+ORD00391,2026-07-07,17:41,Dinner,Delivery,,None,0.00
+ORD00392,2026-07-07,12:54,Lunch,Dine-in,4,Happy Hour,3.84
+ORD00393,2026-07-07,12:49,Lunch,Dine-in,1,None,0.00
+ORD00394,2026-07-07,14:39,Lunch,Dine-in,3,None,0.00
+ORD00395,2026-07-07,13:18,Lunch,Pickup,,None,0.00
+ORD00396,2026-07-07,21:28,Dinner,Pickup,,None,0.00
+ORD00397,2026-07-07,19:56,Dinner,Delivery,,None,0.00
+ORD00398,2026-07-07,14:42,Lunch,Dine-in,3,None,0.00
+ORD00399,2026-07-07,18:10,Dinner,Dine-in,5,None,0.00
+ORD00400,2026-07-08,18:19,Dinner,Dine-in,4,None,0.00
+ORD00401,2026-07-08,12:24,Lunch,Dine-in,2,None,0.00
+ORD00402,2026-07-08,14:51,Lunch,Delivery,,Happy Hour,2.88
+ORD00403,2026-07-08,19:13,Dinner,Dine-in,4,None,0.00
+ORD00404,2026-07-08,13:40,Lunch,Pickup,,None,0.00
+ORD00405,2026-07-08,13:02,Lunch,Dine-in,1,None,0.00
+ORD00406,2026-07-08,14:45,Lunch,Pickup,,Happy Hour,2.28
+ORD00407,2026-07-08,18:57,Dinner,Dine-in,5,None,0.00
+ORD00408,2026-07-08,21:05,Dinner,Delivery,,None,0.00
+ORD00409,2026-07-08,20:26,Dinner,Delivery,,None,0.00
+ORD00410,2026-07-08,20:01,Dinner,Pickup,,None,0.00
+ORD00411,2026-07-08,21:53,Dinner,Dine-in,2,None,0.00
+ORD00412,2026-07-08,13:38,Lunch,Dine-in,2,None,0.00
+ORD00413,2026-07-08,21:35,Dinner,Dine-in,1,None,0.00
+ORD00414,2026-07-08,11:50,Lunch,Dine-in,3,None,0.00
+ORD00415,2026-07-08,21:55,Dinner,Dine-in,2,None,0.00
+ORD00416,2026-07-08,11:38,Lunch,Pickup,,Happy Hour,1.32
+ORD00417,2026-07-08,18:28,Dinner,Delivery,,Happy Hour,4.92
+ORD00418,2026-07-08,18:26,Dinner,Pickup,,None,0.00
+ORD00419,2026-07-08,13:54,Lunch,Delivery,,None,0.00
+ORD00420,2026-07-08,21:49,Dinner,Dine-in,4,Happy Hour,0.42
+ORD00421,2026-07-08,18:57,Dinner,Dine-in,3,None,0.00
+ORD00422,2026-07-08,17:48,Dinner,Dine-in,,None,0.00
+ORD00423,2026-07-08,20:06,Dinner,Delivery,,None,0.00
+ORD00424,2026-07-08,11:45,Lunch,Dine-in,5,None,0.00
+ORD00425,2026-07-08,14:56,Lunch,Dine-in,4,None,0.00
+ORD00426,2026-07-08,18:46,Dinner,Dine-in,,None,0.00
+ORD00427,2026-07-08,20:26,Dinner,Pickup,,None,0.00
+ORD00428,2026-07-08,12:24,Lunch,Dine-in,2,Happy Hour,4.56
+ORD00429,2026-07-08,12:40,Lunch,Dine-in,2,None,0.00
+ORD00430,2026-07-08,20:14,Dinner,Pickup,,None,0.00
+ORD00431,2026-07-08,21:13,Dinner,Dine-in,5,None,0.00
+ORD00432,2026-07-08,12:38,Lunch,Dine-in,,None,0.00
+ORD00433,2026-07-08,17:32,Dinner,Pickup,,None,0.00
+ORD00434,2026-07-08,17:24,Dinner,Dine-in,5,None,0.00
+ORD00435,2026-07-08,11:42,Lunch,Pickup,,None,0.00
+ORD00436,2026-07-08,18:38,Dinner,Dine-in,3,None,0.00
+ORD00437,2026-07-08,17:31,Dinner,Dine-in,5,None,0.00
+ORD00438,2026-07-08,13:22,Lunch,Delivery,,None,0.00
+ORD00439,2026-07-08,12:18,Lunch,Dine-in,5,None,0.00
+ORD00440,2026-07-08,17:51,Dinner,Dine-in,3,None,0.00
+ORD00441,2026-07-09,13:58,Lunch,Dine-in,1,None,0.00
+ORD00442,2026-07-09,13:14,Lunch,Dine-in,2,None,0.00
+ORD00443,2026-07-09,12:29,Lunch,Dine-in,1,None,0.00
+ORD00444,2026-07-09,13:34,Lunch,Dine-in,3,None,0.00
+ORD00445,2026-07-09,18:02,Dinner,Dine-in,4,None,0.00
+ORD00446,2026-07-09,18:21,Dinner,Dine-in,1,None,0.00
+ORD00447,2026-07-09,20:27,Dinner,Dine-in,1,Voucher,12.00
+ORD00448,2026-07-09,11:33,Lunch,Pickup,,None,0.00
+ORD00449,2026-07-09,18:13,Dinner,Delivery,,Voucher,12.00
+ORD00450,2026-07-09,11:15,Lunch,Delivery,,None,0.00
+ORD00451,2026-07-09,17:33,Dinner,Delivery,,None,0.00
+ORD00452,2026-07-09,14:41,Lunch,Pickup,,Happy Hour,1.92
+ORD00453,2026-07-09,20:33,Dinner,Dine-in,4,None,0.00
+ORD00454,2026-07-09,12:24,Lunch,Dine-in,5,Happy Hour,1.38
+ORD00455,2026-07-09,19:58,Dinner,Delivery,,None,0.00
+ORD00456,2026-07-09,17:29,Dinner,Pickup,,Voucher,11.10
+ORD00457,2026-07-09,18:32,Dinner,Pickup,,None,0.00
+ORD00458,2026-07-09,17:26,Dinner,Dine-in,3,None,0.00
+ORD00459,2026-07-09,11:07,Lunch,Dine-in,2,Voucher,0.00
+ORD00460,2026-07-09,20:01,Dinner,Pickup,,Happy Hour,0.96
+ORD00461,2026-07-09,13:14,Lunch,Dine-in,1,Voucher,12.00
+ORD00462,2026-07-09,17:25,Dinner,Dine-in,1,None,0.00
+ORD00463,2026-07-09,11:52,Lunch,Dine-in,5,None,0.00
+ORD00464,2026-07-09,13:13,Lunch,Pickup,,None,0.00
+ORD00465,2026-07-09,20:33,Dinner,Dine-in,5,None,0.00
+ORD00466,2026-07-09,14:51,Lunch,Delivery,,None,0.00
+ORD00467,2026-07-09,18:45,Dinner,Dine-in,3,None,0.00
+ORD00468,2026-07-09,19:04,Dinner,Dine-in,4,None,0.00
+ORD00469,2026-07-09,20:51,Dinner,Delivery,,None,0.00
+ORD00470,2026-07-09,17:57,Dinner,Dine-in,1,None,0.00
+ORD00471,2026-07-09,14:43,Lunch,Dine-in,1,None,0.00
+ORD00472,2026-07-09,19:47,Dinner,Dine-in,2,None,0.00
+ORD00473,2026-07-09,21:49,Dinner,Dine-in,,Happy Hour,3.96
+ORD00474,2026-07-09,11:14,Lunch,Dine-in,2,None,0.00
+ORD00475,2026-07-09,18:20,Dinner,Pickup,,None,0.00
+ORD00476,2026-07-09,20:33,Dinner,Dine-in,5,None,0.00
+ORD00477,2026-07-09,18:37,Dinner,Pickup,,None,0.00
+ORD00478,2026-07-09,17:34,Dinner,Dine-in,4,None,0.00
+ORD00479,2026-07-09,14:06,Lunch,Delivery,,Happy Hour,3.00
+ORD00480,2026-07-09,20:27,Dinner,Dine-in,2,None,0.00
+ORD00481,2026-07-09,19:58,Dinner,Delivery,,Happy Hour,1.32
+ORD00482,2026-07-09,20:21,Dinner,Dine-in,2,None,0.00
+ORD00483,2026-07-09,11:59,Lunch,Dine-in,3,Happy Hour,5.52
+ORD00484,2026-07-09,11:54,Lunch,Delivery,,None,0.00
+ORD00485,2026-07-09,19:58,Dinner,Dine-in,2,None,0.00
+ORD00486,2026-07-09,14:02,Lunch,Dine-in,5,None,0.00
+ORD00487,2026-07-09,12:35,Lunch,Dine-in,4,Voucher,12.00
+ORD00488,2026-07-09,13:46,Lunch,Dine-in,5,None,0.00
+ORD00489,2026-07-09,17:48,Dinner,Pickup,,None,0.00
+ORD00490,2026-07-09,14:47,Lunch,Dine-in,1,None,0.00
+ORD00491,2026-07-09,17:55,Dinner,Dine-in,,None,0.00
+ORD00492,2026-07-09,21:25,Dinner,Pickup,,None,0.00
+ORD00493,2026-07-09,20:01,Dinner,Dine-in,2,None,0.00
+ORD00494,2026-07-09,14:09,Lunch,Dine-in,4,None,0.00
+ORD00495,2026-07-09,19:28,Dinner,Dine-in,1,None,0.00
+ORD00496,2026-07-10,19:26,Dinner,Dine-in,4,None,0.00
+ORD00497,2026-07-10,17:01,Dinner,Dine-in,5,None,0.00
+ORD00498,2026-07-10,11:54,Lunch,Dine-in,1,Happy Hour,5.40
+ORD00499,2026-07-10,20:18,Dinner,Delivery,,Happy Hour,2.28
+ORD00500,2026-07-10,11:13,Lunch,Dine-in,5,None,0.00
+ORD00501,2026-07-10,21:19,Dinner,Dine-in,1,None,0.00
+ORD00502,2026-07-10,21:16,Dinner,Delivery,,Happy Hour,10.08
+ORD00503,2026-07-10,12:45,Lunch,Pickup,,None,0.00
+ORD00504,2026-07-10,12:43,Lunch,Delivery,,None,0.00
+ORD00505,2026-07-10,17:42,Dinner,Pickup,,Happy Hour,1.92
+ORD00506,2026-07-10,17:44,Dinner,Dine-in,5,None,0.00
+ORD00507,2026-07-10,20:21,Dinner,Dine-in,5,None,0.00
+ORD00508,2026-07-10,20:42,Dinner,Dine-in,3,None,0.00
+ORD00509,2026-07-10,20:40,Dinner,Dine-in,5,None,0.00
+ORD00510,2026-07-10,18:38,Dinner,Dine-in,2,None,0.00
+ORD00511,2026-07-10,18:14,Dinner,Dine-in,2,None,0.00
+ORD00512,2026-07-10,19:42,Dinner,Delivery,,Happy Hour,4.80
+ORD00513,2026-07-10,13:00,Lunch,Pickup,,Voucher,10.80
+ORD00514,2026-07-10,19:10,Dinner,Dine-in,3,None,0.00
+ORD00515,2026-07-10,11:12,Lunch,Dine-in,3,None,0.00
+ORD00516,2026-07-10,19:15,Dinner,Dine-in,4,None,0.00
+ORD00517,2026-07-10,14:59,Lunch,Pickup,,Happy Hour,6.24
+ORD00518,2026-07-10,19:07,Dinner,Dine-in,5,None,0.00
+ORD00519,2026-07-10,11:26,Lunch,Dine-in,2,None,0.00
+ORD00520,2026-07-10,21:45,Dinner,Delivery,,Happy Hour,3.36
+ORD00521,2026-07-10,19:43,Dinner,Dine-in,2,Happy Hour,4.32
+ORD00522,2026-07-10,12:48,Lunch,Dine-in,2,None,0.00
+ORD00523,2026-07-10,21:10,Dinner,Pickup,,Happy Hour,1.68
+ORD00524,2026-07-10,18:45,Dinner,Dine-in,1,None,0.00
+ORD00525,2026-07-10,14:33,Lunch,Dine-in,3,None,0.00
+ORD00526,2026-07-10,11:54,Lunch,Delivery,,None,0.00
+ORD00527,2026-07-10,14:11,Lunch,Dine-in,,None,0.00
+ORD00528,2026-07-10,18:33,Dinner,Pickup,,None,0.00
+ORD00529,2026-07-10,14:51,Lunch,Delivery,,None,0.00
+ORD00530,2026-07-10,11:20,Lunch,Delivery,,None,0.00
+ORD00531,2026-07-10,13:08,Lunch,Dine-in,1,None,0.00
+ORD00532,2026-07-10,19:05,Dinner,Pickup,,None,0.00
+ORD00533,2026-07-10,19:31,Dinner,Pickup,,None,0.00
+ORD00534,2026-07-10,11:37,Lunch,Delivery,,None,0.00
+ORD00535,2026-07-10,12:58,Lunch,Pickup,,None,0.00
+ORD00536,2026-07-10,17:24,Dinner,Dine-in,2,None,0.00
+ORD00537,2026-07-10,11:30,Lunch,Dine-in,5,None,0.00
+ORD00538,2026-07-10,14:02,Lunch,Dine-in,3,None,0.00
+ORD00539,2026-07-10,19:00,Dinner,Delivery,,Happy Hour,3.12
+ORD00540,2026-07-10,12:10,Lunch,Dine-in,5,None,0.00
+ORD00541,2026-07-10,12:12,Lunch,Dine-in,4,None,0.00
+ORD00542,2026-07-10,12:20,Lunch,Delivery,,None,0.00
+ORD00543,2026-07-10,18:51,Dinner,Pickup,,None,0.00
+ORD00544,2026-07-10,17:29,Dinner,Dine-in,4,None,0.00
+ORD00545,2026-07-10,11:35,Lunch,Dine-in,1,Happy Hour,3.96
+ORD00546,2026-07-10,11:52,Lunch,Pickup,,Happy Hour,3.48
+ORD00547,2026-07-10,19:23,Dinner,Dine-in,2,None,0.00
+ORD00548,2026-07-10,11:19,Lunch,Pickup,,None,0.00
+ORD00549,2026-07-10,11:32,Lunch,Delivery,,None,0.00
+ORD00550,2026-07-10,19:19,Dinner,Dine-in,4,None,0.00
+ORD00551,2026-07-10,11:57,Lunch,Pickup,,None,0.00
+ORD00552,2026-07-10,11:02,Lunch,Delivery,,None,0.00
+ORD00553,2026-07-10,11:38,Lunch,Dine-in,2,None,0.00
+ORD00554,2026-07-10,11:11,Lunch,Pickup,,None,0.00
+ORD00555,2026-07-10,17:44,Dinner,Delivery,,Voucher,8.40
+ORD00556,2026-07-10,12:23,Lunch,Delivery,,None,0.00
+ORD00557,2026-07-10,17:49,Dinner,Dine-in,5,None,0.00
+ORD00558,2026-07-10,21:21,Dinner,Pickup,,Happy Hour,3.84
+ORD00559,2026-07-10,21:03,Dinner,Delivery,,None,0.00
+ORD00560,2026-07-11,14:43,Lunch,Dine-in,2,None,0.00
+ORD00561,2026-07-11,20:51,Dinner,Delivery,,Voucher,11.70
+ORD00562,2026-07-11,11:30,Lunch,Pickup,,None,0.00
+ORD00563,2026-07-11,21:17,Dinner,Dine-in,4,None,0.00
+ORD00564,2026-07-11,14:05,Lunch,Dine-in,2,Happy Hour,6.60
+ORD00565,2026-07-11,12:02,Lunch,Dine-in,4,None,0.00
+ORD00566,2026-07-11,21:20,Dinner,Dine-in,3,None,0.00
+ORD00567,2026-07-11,21:38,Dinner,Pickup,,Happy Hour,1.80
+ORD00568,2026-07-11,13:30,Lunch,Dine-in,2,Happy Hour,3.36
+ORD00569,2026-07-11,19:29,Dinner,Dine-in,5,None,0.00
+ORD00570,2026-07-11,20:04,Dinner,Dine-in,1,None,0.00
+ORD00571,2026-07-11,17:08,Dinner,Dine-in,4,None,0.00
+ORD00572,2026-07-11,13:58,Lunch,Dine-in,1,None,0.00
+ORD00573,2026-07-11,19:57,Dinner,Dine-in,2,None,0.00
+ORD00574,2026-07-11,17:22,Dinner,Dine-in,2,None,0.00
+ORD00575,2026-07-11,13:48,Lunch,Dine-in,1,Happy Hour,1.32
+ORD00576,2026-07-11,14:53,Lunch,Pickup,,None,0.00
+ORD00577,2026-07-11,19:24,Dinner,Dine-in,1,None,0.00
+ORD00578,2026-07-11,21:33,Dinner,Delivery,,None,0.00
+ORD00579,2026-07-11,17:55,Dinner,Dine-in,5,None,0.00
+ORD00580,2026-07-11,13:34,Lunch,Dine-in,4,None,0.00
+ORD00581,2026-07-11,14:05,Lunch,Dine-in,1,Voucher,0.00
+ORD00582,2026-07-11,13:56,Lunch,Delivery,,Happy Hour,0.48
+ORD00583,2026-07-11,14:36,Lunch,Delivery,,None,0.00
+ORD00584,2026-07-11,17:56,Dinner,Pickup,,Happy Hour,2.88
+ORD00585,2026-07-11,17:25,Dinner,Dine-in,5,None,0.00
+ORD00586,2026-07-11,17:38,Dinner,Pickup,,None,0.00
+ORD00587,2026-07-11,14:09,Lunch,Dine-in,3,None,0.00
+ORD00588,2026-07-11,19:32,Dinner,Delivery,,Voucher,7.80
+ORD00589,2026-07-11,20:10,Dinner,Dine-in,2,None,0.00
+ORD00590,2026-07-11,12:50,Lunch,Delivery,,None,0.00
+ORD00591,2026-07-11,13:16,Lunch,Dine-in,2,None,0.00
+ORD00592,2026-07-11,13:19,Lunch,Pickup,,Happy Hour,3.96
+ORD00593,2026-07-11,11:03,Lunch,Pickup,,None,0.00
+ORD00594,2026-07-11,19:59,Dinner,Delivery,,None,0.00
+ORD00595,2026-07-11,11:51,Lunch,Pickup,,Voucher,0.00
+ORD00596,2026-07-11,18:49,Dinner,Dine-in,5,None,0.00
+ORD00597,2026-07-11,17:27,Dinner,Dine-in,5,Happy Hour,1.80
+ORD00598,2026-07-11,18:29,Dinner,Dine-in,5,None,0.00
+ORD00599,2026-07-11,13:14,Lunch,Dine-in,4,Voucher,0.00
+ORD00600,2026-07-11,21:25,Dinner,Dine-in,4,None,0.00
+ORD00601,2026-07-11,21:21,Dinner,Dine-in,2,None,0.00
+ORD00602,2026-07-11,13:54,Lunch,Dine-in,1,None,0.00
+ORD00603,2026-07-11,12:22,Lunch,Dine-in,3,None,0.00
+ORD00604,2026-07-11,17:47,Dinner,Dine-in,3,None,0.00
+ORD00605,2026-07-11,17:47,Dinner,Dine-in,3,None,0.00
+ORD00606,2026-07-11,20:04,Dinner,Dine-in,3,None,0.00
+ORD00607,2026-07-11,11:26,Lunch,Delivery,,None,0.00
+ORD00608,2026-07-11,17:16,Dinner,Dine-in,2,None,0.00
+ORD00609,2026-07-11,12:05,Lunch,Dine-in,3,Voucher,0.00
+ORD00610,2026-07-11,21:42,Dinner,Dine-in,5,None,0.00
+ORD00611,2026-07-11,12:03,Lunch,Dine-in,5,None,0.00
+ORD00612,2026-07-11,13:22,Lunch,Dine-in,2,None,0.00
+ORD00613,2026-07-11,14:03,Lunch,Pickup,,None,0.00
+ORD00614,2026-07-11,17:00,Dinner,Dine-in,2,None,0.00
+ORD00615,2026-07-11,12:58,Lunch,Pickup,,None,0.00
+ORD00616,2026-07-11,19:24,Dinner,Dine-in,5,None,0.00
+ORD00617,2026-07-11,17:52,Dinner,Dine-in,,None,0.00
+ORD00618,2026-07-11,11:11,Lunch,Pickup,,None,0.00
+ORD00619,2026-07-11,18:34,Dinner,Dine-in,4,None,0.00
+ORD00620,2026-07-12,17:52,Dinner,Dine-in,5,None,0.00
+ORD00621,2026-07-12,19:40,Dinner,Pickup,,None,0.00
+ORD00622,2026-07-12,18:04,Dinner,Dine-in,5,None,0.00
+ORD00623,2026-07-12,20:43,Dinner,Dine-in,4,None,0.00
+ORD00624,2026-07-12,19:39,Dinner,Dine-in,4,None,0.00
+ORD00625,2026-07-12,18:18,Dinner,Dine-in,5,None,0.00
+ORD00626,2026-07-12,20:23,Dinner,Dine-in,1,None,0.00
+ORD00627,2026-07-12,19:33,Dinner,Dine-in,4,None,0.00
+ORD00628,2026-07-12,12:48,Lunch,Dine-in,1,None,0.00
+ORD00629,2026-07-12,11:03,Lunch,Dine-in,5,None,0.00
+ORD00630,2026-07-12,18:41,Dinner,Pickup,,None,0.00
+ORD00631,2026-07-12,14:48,Lunch,Pickup,,None,0.00
+ORD00632,2026-07-12,13:38,Lunch,Pickup,,Happy Hour,9.72
+ORD00633,2026-07-12,12:27,Lunch,Dine-in,1,None,0.00
+ORD00634,2026-07-12,18:08,Dinner,Dine-in,1,None,0.00
+ORD00635,2026-07-12,21:46,Dinner,Dine-in,1,Voucher,0.00
+ORD00636,2026-07-12,14:03,Lunch,Delivery,,None,0.00
+ORD00637,2026-07-12,13:55,Lunch,Dine-in,3,Happy Hour,3.72
+ORD00638,2026-07-12,17:48,Dinner,Dine-in,3,None,0.00
+ORD00639,2026-07-12,19:04,Dinner,Dine-in,3,None,0.00
+ORD00640,2026-07-12,20:54,Dinner,Delivery,,None,0.00
+ORD00641,2026-07-12,14:57,Lunch,Pickup,,None,0.00
+ORD00642,2026-07-12,21:45,Dinner,Dine-in,4,Happy Hour,9.60
+ORD00643,2026-07-12,21:56,Dinner,Pickup,,None,0.00
+ORD00644,2026-07-12,11:54,Lunch,Dine-in,,Happy Hour,3.18
+ORD00645,2026-07-12,20:58,Dinner,Dine-in,3,None,0.00
+ORD00646,2026-07-12,21:58,Dinner,Dine-in,5,None,0.00
+ORD00647,2026-07-12,21:54,Dinner,Pickup,,None,0.00
+ORD00648,2026-07-12,11:28,Lunch,Dine-in,1,None,0.00
+ORD00649,2026-07-12,14:28,Lunch,Dine-in,5,None,0.00
+ORD00650,2026-07-12,17:02,Dinner,Dine-in,4,None,0.00
+ORD00651,2026-07-12,20:49,Dinner,Pickup,,Happy Hour,4.08
+ORD00652,2026-07-12,19:41,Dinner,Dine-in,2,None,0.00
+ORD00653,2026-07-12,11:38,Lunch,Delivery,,None,0.00
+ORD00654,2026-07-12,17:37,Dinner,Dine-in,3,None,0.00
+ORD00655,2026-07-12,20:16,Dinner,Delivery,,None,0.00
+ORD00656,2026-07-12,12:26,Lunch,Dine-in,3,Happy Hour,4.80
+ORD00657,2026-07-12,20:48,Dinner,Pickup,,Happy Hour,7.80
+ORD00658,2026-07-12,21:59,Dinner,Pickup,,None,0.00
+ORD00659,2026-07-12,20:14,Dinner,Dine-in,,None,0.00
+ORD00660,2026-07-12,18:01,Dinner,Dine-in,5,None,0.00
+ORD00661,2026-07-12,14:20,Lunch,Dine-in,2,Happy Hour,3.84
+ORD00662,2026-07-12,20:30,Dinner,Dine-in,1,None,0.00
+ORD00663,2026-07-12,12:47,Lunch,Dine-in,2,Happy Hour,2.64
+ORD00664,2026-07-12,14:51,Lunch,Dine-in,4,Happy Hour,2.40
+ORD00665,2026-07-12,20:20,Dinner,Delivery,,Happy Hour,6.96
+ORD00666,2026-07-12,14:14,Lunch,Dine-in,2,None,0.00
+ORD00667,2026-07-12,21:09,Dinner,Dine-in,3,None,0.00
+ORD00668,2026-07-12,19:04,Dinner,Dine-in,5,None,0.00
+ORD00669,2026-07-12,12:11,Lunch,Dine-in,5,None,0.00
+ORD00670,2026-07-12,14:56,Lunch,Dine-in,3,None,0.00
+ORD00671,2026-07-12,18:01,Dinner,Pickup,,Happy Hour,2.58
+ORD00672,2026-07-12,18:43,Dinner,Dine-in,4,None,0.00
+ORD00673,2026-07-12,14:46,Lunch,Dine-in,5,Voucher,12.00
+ORD00674,2026-07-12,20:33,Dinner,Pickup,,None,0.00
+ORD00675,2026-07-12,20:40,Dinner,Dine-in,1,None,0.00
+ORD00676,2026-07-12,18:51,Dinner,Delivery,,Happy Hour,2.22
+ORD00677,2026-07-12,19:14,Dinner,Dine-in,3,None,0.00
+ORD00678,2026-07-12,19:19,Dinner,Dine-in,4,None,0.00
+ORD00679,2026-07-12,20:03,Dinner,Pickup,,Happy Hour,5.40
+ORD00680,2026-07-13,21:46,Dinner,Dine-in,3,None,0.00
+ORD00681,2026-07-13,20:29,Dinner,Pickup,,Happy Hour,1.80
+ORD00682,2026-07-13,19:00,Dinner,Dine-in,1,None,0.00
+ORD00683,2026-07-13,19:52,Dinner,Delivery,,None,0.00
+ORD00684,2026-07-13,14:48,Lunch,Pickup,,None,0.00
+ORD00685,2026-07-13,12:04,Lunch,Dine-in,1,None,0.00
+ORD00686,2026-07-13,14:19,Lunch,Pickup,,Happy Hour,3.06
+ORD00687,2026-07-13,11:57,Lunch,Delivery,,None,0.00
+ORD00688,2026-07-13,21:33,Dinner,Dine-in,2,None,0.00
+ORD00689,2026-07-13,14:21,Lunch,Dine-in,2,Voucher,0.00
+ORD00690,2026-07-13,14:04,Lunch,Dine-in,2,None,0.00
+ORD00691,2026-07-13,18:49,Dinner,Dine-in,5,None,0.00
+ORD00692,2026-07-13,18:36,Dinner,Dine-in,4,Happy Hour,8.40
+ORD00693,2026-07-13,13:23,Lunch,Delivery,,None,0.00
+ORD00694,2026-07-13,19:07,Dinner,Dine-in,1,None,0.00
+ORD00695,2026-07-13,19:02,Dinner,Dine-in,4,None,0.00
+ORD00696,2026-07-13,21:12,Dinner,Dine-in,5,None,0.00
+ORD00697,2026-07-13,18:27,Dinner,Pickup,,None,0.00
+ORD00698,2026-07-13,21:34,Dinner,Dine-in,3,None,0.00
+ORD00699,2026-07-13,14:54,Lunch,Dine-in,1,None,0.00
+ORD00700,2026-07-13,21:51,Dinner,Dine-in,5,Voucher,0.00
+ORD00701,2026-07-13,19:54,Dinner,Delivery,,None,0.00
+ORD00702,2026-07-13,14:26,Lunch,Dine-in,3,None,0.00
+ORD00703,2026-07-13,18:15,Dinner,Dine-in,3,None,0.00
+ORD00704,2026-07-13,21:46,Dinner,Dine-in,1,None,0.00
+ORD00705,2026-07-13,18:11,Dinner,Dine-in,4,None,0.00
+ORD00706,2026-07-13,19:23,Dinner,Dine-in,1,None,0.00
+ORD00707,2026-07-13,17:34,Dinner,Dine-in,5,None,0.00
+ORD00708,2026-07-13,19:54,Dinner,Dine-in,5,None,0.00
+ORD00709,2026-07-13,12:31,Lunch,Dine-in,5,Happy Hour,5.04
+ORD00710,2026-07-13,12:57,Lunch,Pickup,,Happy Hour,2.28
+ORD00711,2026-07-13,17:15,Dinner,Dine-in,5,None,0.00
+ORD00712,2026-07-13,14:29,Lunch,Dine-in,2,None,0.00
+ORD00713,2026-07-13,14:39,Lunch,Dine-in,3,None,0.00
+ORD00714,2026-07-13,13:00,Lunch,Delivery,,None,0.00
+ORD00715,2026-07-13,13:36,Lunch,Pickup,,None,0.00
+ORD00716,2026-07-13,21:26,Dinner,Dine-in,3,Happy Hour,4.62
+ORD00717,2026-07-13,19:08,Dinner,Dine-in,4,None,0.00
+ORD00718,2026-07-13,18:30,Dinner,Dine-in,5,None,0.00
+ORD00719,2026-07-13,20:56,Dinner,Dine-in,1,None,0.00
+ORD00720,2026-07-13,20:24,Dinner,Delivery,,None,0.00
+ORD00721,2026-07-13,19:33,Dinner,Dine-in,5,None,0.00
+ORD00722,2026-07-13,21:04,Dinner,Dine-in,1,None,0.00
+ORD00723,2026-07-13,21:37,Dinner,Dine-in,,None,0.00
+ORD00724,2026-07-13,19:48,Dinner,Delivery,,None,0.00
+ORD00725,2026-07-13,12:51,Lunch,Dine-in,2,None,0.00
+ORD00726,2026-07-13,13:12,Lunch,Pickup,,None,0.00
+ORD00727,2026-07-13,21:51,Dinner,Dine-in,2,None,0.00
+ORD00728,2026-07-13,21:41,Dinner,Dine-in,1,Happy Hour,3.60
+ORD00729,2026-07-14,17:59,Dinner,Pickup,,None,0.00
+ORD00730,2026-07-14,21:44,Dinner,Dine-in,2,Happy Hour,4.56
+ORD00731,2026-07-14,12:28,Lunch,Dine-in,5,None,0.00
+ORD00732,2026-07-14,20:27,Dinner,Dine-in,,None,0.00
+ORD00733,2026-07-14,14:12,Lunch,Dine-in,5,None,0.00
+ORD00734,2026-07-14,19:44,Dinner,Delivery,,None,0.00
+ORD00735,2026-07-14,17:13,Dinner,Dine-in,1,None,0.00
+ORD00736,2026-07-14,13:19,Lunch,Dine-in,1,Happy Hour,3.60
+ORD00737,2026-07-14,19:02,Dinner,Delivery,,None,0.00
+ORD00738,2026-07-14,13:16,Lunch,Dine-in,4,None,0.00
+ORD00739,2026-07-14,20:02,Dinner,Dine-in,2,Happy Hour,1.92
+ORD00740,2026-07-14,20:05,Dinner,Dine-in,4,None,0.00
+ORD00741,2026-07-14,14:52,Lunch,Delivery,,Happy Hour,3.18
+ORD00742,2026-07-14,21:10,Dinner,Dine-in,4,Happy Hour,6.12
+ORD00743,2026-07-14,21:59,Dinner,Pickup,,None,0.00
+ORD00744,2026-07-14,20:22,Dinner,Pickup,,Happy Hour,2.88
+ORD00745,2026-07-14,13:34,Lunch,Dine-in,4,None,0.00
+ORD00746,2026-07-14,17:11,Dinner,Pickup,,None,0.00
+ORD00747,2026-07-14,21:31,Dinner,Pickup,,Voucher,0.00
+ORD00748,2026-07-14,17:50,Dinner,Dine-in,5,None,0.00
+ORD00749,2026-07-14,13:49,Lunch,Dine-in,2,None,0.00
+ORD00750,2026-07-14,19:35,Dinner,Delivery,,Happy Hour,4.08
+ORD00751,2026-07-14,18:09,Dinner,Pickup,,None,0.00
+ORD00752,2026-07-14,19:36,Dinner,Dine-in,,None,0.00
+ORD00753,2026-07-14,17:48,Dinner,Delivery,,None,0.00
+ORD00754,2026-07-14,18:39,Dinner,Dine-in,1,None,0.00
+ORD00755,2026-07-14,12:15,Lunch,Dine-in,5,Happy Hour,3.60
+ORD00756,2026-07-14,14:45,Lunch,Dine-in,1,None,0.00
+ORD00757,2026-07-14,17:06,Dinner,Pickup,,None,0.00
+ORD00758,2026-07-14,20:38,Dinner,Dine-in,2,Voucher,10.80
+ORD00759,2026-07-14,18:08,Dinner,Delivery,,None,0.00
+ORD00760,2026-07-14,19:37,Dinner,Delivery,,None,0.00
+ORD00761,2026-07-14,21:51,Dinner,Pickup,,Happy Hour,5.28
+ORD00762,2026-07-14,13:14,Lunch,Pickup,,None,0.00
+ORD00763,2026-07-14,21:22,Dinner,Dine-in,5,None,0.00
+ORD00764,2026-07-14,20:11,Dinner,Pickup,,None,0.00
+ORD00765,2026-07-14,14:08,Lunch,Dine-in,4,None,0.00
+ORD00766,2026-07-14,18:29,Dinner,Pickup,,None,0.00
+ORD00767,2026-07-14,20:07,Dinner,Dine-in,3,None,0.00
+ORD00768,2026-07-14,19:54,Dinner,Dine-in,2,Happy Hour,1.68
+ORD00769,2026-07-14,11:27,Lunch,Dine-in,3,None,0.00
+ORD00770,2026-07-14,21:44,Dinner,Dine-in,5,None,0.00
+ORD00771,2026-07-14,19:56,Dinner,Dine-in,5,None,0.00
+ORD00772,2026-07-14,13:55,Lunch,Dine-in,,None,0.00
+ORD00773,2026-07-15,18:21,Dinner,Dine-in,5,None,0.00
+ORD00774,2026-07-15,13:57,Lunch,Dine-in,3,None,0.00
+ORD00775,2026-07-15,12:37,Lunch,Dine-in,2,Happy Hour,4.50
+ORD00776,2026-07-15,19:09,Dinner,Pickup,,Voucher,0.00
+ORD00777,2026-07-15,20:51,Dinner,Delivery,,Voucher,12.00
+ORD00778,2026-07-15,19:43,Dinner,Delivery,,None,0.00
+ORD00779,2026-07-15,20:09,Dinner,Delivery,,Voucher,12.00
+ORD00780,2026-07-15,13:18,Lunch,Dine-in,4,None,0.00
+ORD00781,2026-07-15,19:30,Dinner,Dine-in,1,None,0.00
+ORD00782,2026-07-15,12:57,Lunch,Pickup,,None,0.00
+ORD00783,2026-07-15,18:13,Dinner,Dine-in,5,None,0.00
+ORD00784,2026-07-15,14:42,Lunch,Dine-in,5,None,0.00
+ORD00785,2026-07-15,12:38,Lunch,Delivery,,None,0.00
+ORD00786,2026-07-15,20:28,Dinner,Dine-in,3,None,0.00
+ORD00787,2026-07-15,21:16,Dinner,Dine-in,4,None,0.00
+ORD00788,2026-07-15,19:50,Dinner,Delivery,,None,0.00
+ORD00789,2026-07-15,21:32,Dinner,Dine-in,3,None,0.00
+ORD00790,2026-07-15,21:00,Dinner,Dine-in,5,None,0.00
+ORD00791,2026-07-15,11:21,Lunch,Dine-in,3,Happy Hour,5.04
+ORD00792,2026-07-15,20:07,Dinner,Delivery,,None,0.00
+ORD00793,2026-07-15,20:25,Dinner,Pickup,,None,0.00
+ORD00794,2026-07-15,14:43,Lunch,Pickup,,None,0.00
+ORD00795,2026-07-15,12:38,Lunch,Dine-in,5,None,0.00
+ORD00796,2026-07-15,11:12,Lunch,Pickup,,Happy Hour,1.68
+ORD00797,2026-07-15,11:43,Lunch,Delivery,,None,0.00
+ORD00798,2026-07-15,12:18,Lunch,Dine-in,3,None,0.00
+ORD00799,2026-07-15,13:44,Lunch,Dine-in,4,Voucher,12.00
+ORD00800,2026-07-15,21:05,Dinner,Pickup,,None,0.00
+ORD00801,2026-07-15,11:51,Lunch,Delivery,,Happy Hour,6.00
+ORD00802,2026-07-15,14:36,Lunch,Delivery,,None,0.00
+ORD00803,2026-07-15,12:07,Lunch,Pickup,,None,0.00
+ORD00804,2026-07-15,12:39,Lunch,Dine-in,3,None,0.00
+ORD00805,2026-07-15,18:09,Dinner,Dine-in,,Happy Hour,6.60
+ORD00806,2026-07-15,20:50,Dinner,Delivery,,Happy Hour,1.80
+ORD00807,2026-07-15,19:32,Dinner,Dine-in,3,None,0.00
+ORD00808,2026-07-15,14:49,Lunch,Dine-in,5,None,0.00
+ORD00809,2026-07-15,12:24,Lunch,Dine-in,4,None,0.00
+ORD00810,2026-07-15,14:56,Lunch,Dine-in,5,None,0.00
+ORD00811,2026-07-15,19:31,Dinner,Dine-in,3,None,0.00
+ORD00812,2026-07-15,21:37,Dinner,Dine-in,3,Happy Hour,6.12
+ORD00813,2026-07-15,12:12,Lunch,Dine-in,5,None,0.00
+ORD00814,2026-07-15,20:33,Dinner,Pickup,,None,0.00
+ORD00815,2026-07-15,18:14,Dinner,Dine-in,4,None,0.00
+ORD00816,2026-07-15,14:47,Lunch,Dine-in,5,None,0.00
+ORD00817,2026-07-15,18:28,Dinner,Dine-in,3,None,0.00
+ORD00818,2026-07-15,21:36,Dinner,Dine-in,5,Happy Hour,2.28
+ORD00819,2026-07-15,20:54,Dinner,Dine-in,1,None,0.00
+ORD00820,2026-07-16,11:34,Lunch,Dine-in,1,None,0.00
+ORD00821,2026-07-16,14:45,Lunch,Delivery,,None,0.00
+ORD00822,2026-07-16,11:07,Lunch,Dine-in,3,Voucher,7.80
+ORD00823,2026-07-16,11:43,Lunch,Dine-in,,None,0.00
+ORD00824,2026-07-16,18:19,Dinner,Dine-in,5,Happy Hour,7.32
+ORD00825,2026-07-16,11:41,Lunch,Pickup,,None,0.00
+ORD00826,2026-07-16,11:53,Lunch,Delivery,,None,0.00
+ORD00827,2026-07-16,13:53,Lunch,Dine-in,1,None,0.00
+ORD00828,2026-07-16,17:25,Dinner,Dine-in,3,None,0.00
+ORD00829,2026-07-16,17:59,Dinner,Dine-in,5,Happy Hour,0.84
+ORD00830,2026-07-16,18:14,Dinner,Dine-in,2,None,0.00
+ORD00831,2026-07-16,17:20,Dinner,Dine-in,4,Happy Hour,5.16
+ORD00832,2026-07-16,19:38,Dinner,Pickup,,None,0.00
+ORD00833,2026-07-16,14:25,Lunch,Dine-in,3,None,0.00
+ORD00834,2026-07-16,19:29,Dinner,Dine-in,1,None,0.00
+ORD00835,2026-07-16,12:03,Lunch,Dine-in,1,None,0.00
+ORD00836,2026-07-16,14:15,Lunch,Dine-in,3,None,0.00
+ORD00837,2026-07-16,20:38,Dinner,Dine-in,1,None,0.00
+ORD00838,2026-07-16,21:19,Dinner,Delivery,,Voucher,0.00
+ORD00839,2026-07-16,20:31,Dinner,Delivery,,None,0.00
+ORD00840,2026-07-16,17:14,Dinner,Dine-in,3,Happy Hour,4.26
+ORD00841,2026-07-16,19:22,Dinner,Dine-in,5,None,0.00
+ORD00842,2026-07-16,21:36,Dinner,Dine-in,4,None,0.00
+ORD00843,2026-07-16,20:35,Dinner,Delivery,,None,0.00
+ORD00844,2026-07-16,18:46,Dinner,Delivery,,Happy Hour,4.86
+ORD00845,2026-07-16,19:15,Dinner,Dine-in,5,None,0.00
+ORD00846,2026-07-16,20:45,Dinner,Dine-in,1,Happy Hour,2.28
+ORD00847,2026-07-16,18:01,Dinner,Delivery,,None,0.00
+ORD00848,2026-07-16,17:17,Dinner,Dine-in,5,None,0.00
+ORD00849,2026-07-16,17:52,Dinner,Dine-in,2,None,0.00
+ORD00850,2026-07-16,12:05,Lunch,Dine-in,4,None,0.00
+ORD00851,2026-07-16,11:58,Lunch,Dine-in,4,None,0.00
+ORD00852,2026-07-16,12:15,Lunch,Delivery,,None,0.00
+ORD00853,2026-07-16,11:14,Lunch,Dine-in,5,None,0.00
+ORD00854,2026-07-16,13:08,Lunch,Pickup,,Happy Hour,0.48
+ORD00855,2026-07-16,11:53,Lunch,Dine-in,1,None,0.00
+ORD00856,2026-07-16,17:01,Dinner,Delivery,,None,0.00
+ORD00857,2026-07-16,14:28,Lunch,Dine-in,5,None,0.00
+ORD00858,2026-07-16,12:18,Lunch,Dine-in,3,None,0.00
+ORD00859,2026-07-16,19:37,Dinner,Delivery,,None,0.00
+ORD00860,2026-07-16,12:17,Lunch,Delivery,,None,0.00
+ORD00861,2026-07-16,21:35,Dinner,Dine-in,2,Voucher,12.00
+ORD00862,2026-07-16,21:25,Dinner,Pickup,,Happy Hour,3.48
+ORD00863,2026-07-16,19:28,Dinner,Dine-in,4,Happy Hour,0.48
+ORD00864,2026-07-16,11:30,Lunch,Dine-in,3,None,0.00
+ORD00865,2026-07-16,21:47,Dinner,Delivery,,None,0.00
+ORD00866,2026-07-16,14:31,Lunch,Dine-in,1,None,0.00
+ORD00867,2026-07-16,11:35,Lunch,Pickup,,None,0.00
+ORD00868,2026-07-16,14:19,Lunch,Dine-in,3,None,0.00
+ORD00869,2026-07-16,18:18,Dinner,Dine-in,4,None,0.00
+ORD00870,2026-07-16,19:25,Dinner,Dine-in,,None,0.00
+ORD00871,2026-07-16,20:46,Dinner,Dine-in,5,None,0.00
+ORD00872,2026-07-16,12:41,Lunch,Dine-in,4,None,0.00
+ORD00873,2026-07-17,14:30,Lunch,Delivery,,None,0.00
+ORD00874,2026-07-17,21:12,Dinner,Dine-in,2,None,0.00
+ORD00875,2026-07-17,21:49,Dinner,Dine-in,2,Voucher,0.00
+ORD00876,2026-07-17,11:21,Lunch,Dine-in,4,Happy Hour,1.68
+ORD00877,2026-07-17,11:15,Lunch,Dine-in,1,None,0.00
+ORD00878,2026-07-17,14:34,Lunch,Dine-in,,None,0.00
+ORD00879,2026-07-17,19:46,Dinner,Pickup,,None,0.00
+ORD00880,2026-07-17,19:02,Dinner,Dine-in,3,None,0.00
+ORD00881,2026-07-17,14:52,Lunch,Delivery,,None,0.00
+ORD00882,2026-07-17,14:23,Lunch,Dine-in,4,Voucher,12.00
+ORD00883,2026-07-17,14:40,Lunch,Dine-in,5,Happy Hour,1.80
+ORD00884,2026-07-17,14:59,Lunch,Dine-in,3,None,0.00
+ORD00885,2026-07-17,18:24,Dinner,Dine-in,1,None,0.00
+ORD00886,2026-07-17,20:41,Dinner,Dine-in,1,Happy Hour,8.16
+ORD00887,2026-07-17,11:47,Lunch,Dine-in,4,Voucher,12.00
+ORD00888,2026-07-17,17:43,Dinner,Dine-in,2,None,0.00
+ORD00889,2026-07-17,14:18,Lunch,Dine-in,3,None,0.00
+ORD00890,2026-07-17,13:33,Lunch,Pickup,,None,0.00
+ORD00891,2026-07-17,14:12,Lunch,Pickup,,Happy Hour,4.56
+ORD00892,2026-07-17,19:38,Dinner,Dine-in,1,None,0.00
+ORD00893,2026-07-17,20:56,Dinner,Pickup,,None,0.00
+ORD00894,2026-07-17,12:38,Lunch,Dine-in,1,None,0.00
+ORD00895,2026-07-17,20:32,Dinner,Pickup,,Happy Hour,5.52
+ORD00896,2026-07-17,18:40,Dinner,Delivery,,None,0.00
+ORD00897,2026-07-17,19:17,Dinner,Dine-in,5,None,0.00
+ORD00898,2026-07-17,14:25,Lunch,Delivery,,Happy Hour,1.32
+ORD00899,2026-07-17,19:10,Dinner,Dine-in,5,Happy Hour,8.76
+ORD00900,2026-07-17,12:52,Lunch,Dine-in,3,None,0.00
+ORD00901,2026-07-17,14:08,Lunch,Delivery,,None,0.00
+ORD00902,2026-07-17,18:06,Dinner,Pickup,,None,0.00
+ORD00903,2026-07-17,14:54,Lunch,Dine-in,1,None,0.00
+ORD00904,2026-07-17,19:59,Dinner,Dine-in,1,None,0.00
+ORD00905,2026-07-17,17:26,Dinner,Dine-in,3,None,0.00
+ORD00906,2026-07-17,14:06,Lunch,Delivery,,None,0.00
+ORD00907,2026-07-17,18:49,Dinner,Pickup,,None,0.00
+ORD00908,2026-07-17,21:18,Dinner,Dine-in,,Happy Hour,3.96
+ORD00909,2026-07-17,12:36,Lunch,Pickup,,None,0.00
+ORD00910,2026-07-17,18:54,Dinner,Dine-in,3,None,0.00
+ORD00911,2026-07-17,20:07,Dinner,Dine-in,2,None,0.00
+ORD00912,2026-07-17,20:08,Dinner,Dine-in,3,None,0.00
+ORD00913,2026-07-17,12:26,Lunch,Delivery,,None,0.00
+ORD00914,2026-07-17,20:31,Dinner,Dine-in,2,Happy Hour,3.60
+ORD00915,2026-07-17,20:40,Dinner,Dine-in,2,Voucher,0.00
+ORD00916,2026-07-17,12:36,Lunch,Dine-in,3,Happy Hour,6.96
+ORD00917,2026-07-17,12:26,Lunch,Pickup,,Happy Hour,13.32
+ORD00918,2026-07-17,20:55,Dinner,Dine-in,3,Happy Hour,5.28
+ORD00919,2026-07-17,17:30,Dinner,Pickup,,None,0.00
+ORD00920,2026-07-17,20:45,Dinner,Dine-in,3,Happy Hour,8.88
+ORD00921,2026-07-17,20:24,Dinner,Dine-in,5,None,0.00
+ORD00922,2026-07-17,17:02,Dinner,Pickup,,None,0.00
+ORD00923,2026-07-17,21:48,Dinner,Pickup,,None,0.00
+ORD00924,2026-07-17,19:07,Dinner,Dine-in,1,None,0.00
+ORD00925,2026-07-17,13:46,Lunch,Dine-in,2,None,0.00
+ORD00926,2026-07-17,11:11,Lunch,Dine-in,4,None,0.00
+ORD00927,2026-07-17,20:07,Dinner,Dine-in,4,None,0.00
+ORD00928,2026-07-17,18:16,Dinner,Dine-in,1,None,0.00
+ORD00929,2026-07-17,19:42,Dinner,Dine-in,2,None,0.00
+ORD00930,2026-07-17,13:37,Lunch,Pickup,,None,0.00
+ORD00931,2026-07-17,12:04,Lunch,Dine-in,4,None,0.00
+ORD00932,2026-07-17,18:06,Dinner,Dine-in,4,None,0.00
+ORD00933,2026-07-17,20:08,Dinner,Pickup,,None,0.00
+ORD00934,2026-07-17,12:27,Lunch,Delivery,,Happy Hour,11.04
+ORD00935,2026-07-17,19:29,Dinner,Dine-in,3,None,0.00
+ORD00936,2026-07-17,14:21,Lunch,Dine-in,3,None,0.00
+ORD00937,2026-07-17,13:55,Lunch,Dine-in,3,None,0.00
+ORD00938,2026-07-17,14:12,Lunch,Dine-in,1,None,0.00
+ORD00939,2026-07-17,18:58,Dinner,Pickup,,None,0.00
+ORD00940,2026-07-17,12:59,Lunch,Delivery,,None,0.00
+ORD00941,2026-07-17,13:27,Lunch,Dine-in,5,Happy Hour,6.60
+ORD00942,2026-07-18,20:33,Dinner,Pickup,,None,0.00
+ORD00943,2026-07-18,18:06,Dinner,Delivery,,None,0.00
+ORD00944,2026-07-18,19:40,Dinner,Dine-in,5,Voucher,0.00
+ORD00945,2026-07-18,17:00,Dinner,Dine-in,4,Happy Hour,2.64
+ORD00946,2026-07-18,14:04,Lunch,Dine-in,2,None,0.00
+ORD00947,2026-07-18,21:17,Dinner,Delivery,,Happy Hour,12.00
+ORD00948,2026-07-18,14:05,Lunch,Dine-in,2,None,0.00
+ORD00949,2026-07-18,21:26,Dinner,Dine-in,4,None,0.00
+ORD00950,2026-07-18,19:11,Dinner,Pickup,,None,0.00
+ORD00951,2026-07-18,20:45,Dinner,Pickup,,Happy Hour,4.80
+ORD00952,2026-07-18,20:45,Dinner,Pickup,,None,0.00
+ORD00953,2026-07-18,20:51,Dinner,Dine-in,4,None,0.00
+ORD00954,2026-07-18,12:27,Lunch,Dine-in,2,None,0.00
+ORD00955,2026-07-18,12:40,Lunch,Dine-in,5,None,0.00
+ORD00956,2026-07-18,14:02,Lunch,Dine-in,2,None,0.00
+ORD00957,2026-07-18,18:15,Dinner,Dine-in,3,None,0.00
+ORD00958,2026-07-18,12:30,Lunch,Dine-in,2,None,0.00
+ORD00959,2026-07-18,14:06,Lunch,Dine-in,4,None,0.00
+ORD00960,2026-07-18,17:28,Dinner,Dine-in,4,None,0.00
+ORD00961,2026-07-18,21:12,Dinner,Dine-in,5,None,0.00
+ORD00962,2026-07-18,19:30,Dinner,Dine-in,4,None,0.00
+ORD00963,2026-07-18,21:26,Dinner,Dine-in,,Happy Hour,3.36
+ORD00964,2026-07-18,12:26,Lunch,Pickup,,Happy Hour,3.30
+ORD00965,2026-07-18,19:11,Dinner,Dine-in,4,None,0.00
+ORD00966,2026-07-18,13:12,Lunch,Dine-in,1,None,0.00
+ORD00967,2026-07-18,14:44,Lunch,Pickup,,Happy Hour,3.24
+ORD00968,2026-07-18,17:09,Dinner,Dine-in,5,None,0.00
+ORD00969,2026-07-18,21:19,Dinner,Dine-in,5,None,0.00
+ORD00970,2026-07-18,14:19,Lunch,Dine-in,5,None,0.00
+ORD00971,2026-07-18,18:26,Dinner,Pickup,,None,0.00
+ORD00972,2026-07-18,19:39,Dinner,Dine-in,2,None,0.00
+ORD00973,2026-07-18,20:19,Dinner,Dine-in,3,Happy Hour,1.32
+ORD00974,2026-07-18,17:18,Dinner,Pickup,,None,0.00
+ORD00975,2026-07-18,20:31,Dinner,Dine-in,2,Happy Hour,4.56
+ORD00976,2026-07-18,13:11,Lunch,Dine-in,4,None,0.00
+ORD00977,2026-07-18,13:37,Lunch,Dine-in,3,None,0.00
+ORD00978,2026-07-18,21:59,Dinner,Dine-in,4,None,0.00
+ORD00979,2026-07-18,20:09,Dinner,Dine-in,5,None,0.00
+ORD00980,2026-07-18,17:40,Dinner,Delivery,,None,0.00
+ORD00981,2026-07-18,12:59,Lunch,Dine-in,,None,0.00
+ORD00982,2026-07-18,20:25,Dinner,Dine-in,5,None,0.00
+ORD00983,2026-07-18,17:39,Dinner,Dine-in,,None,0.00
+ORD00984,2026-07-18,20:29,Dinner,Dine-in,2,None,0.00
+ORD00985,2026-07-18,18:01,Dinner,Pickup,,None,0.00
+ORD00986,2026-07-18,18:50,Dinner,Pickup,,Happy Hour,5.28
+ORD00987,2026-07-18,11:16,Lunch,Delivery,,None,0.00
+ORD00988,2026-07-18,11:11,Lunch,Pickup,,None,0.00
+ORD00989,2026-07-18,18:35,Dinner,Dine-in,1,None,0.00
+ORD00990,2026-07-18,19:56,Dinner,Dine-in,3,Happy Hour,3.84
+ORD00991,2026-07-18,21:53,Dinner,Delivery,,Happy Hour,6.24
+ORD00992,2026-07-18,17:39,Dinner,Dine-in,4,None,0.00
+ORD00993,2026-07-18,12:16,Lunch,Pickup,,Happy Hour,0.48
+ORD00994,2026-07-18,12:49,Lunch,Dine-in,3,None,0.00
+ORD00995,2026-07-18,14:29,Lunch,Dine-in,3,None,0.00
+ORD00996,2026-07-18,21:35,Dinner,Dine-in,3,Happy Hour,7.68
+ORD00997,2026-07-18,21:23,Dinner,Delivery,,None,0.00
+ORD00998,2026-07-18,11:09,Lunch,Dine-in,1,None,0.00
+ORD00999,2026-07-18,19:54,Dinner,Dine-in,5,None,0.00
+ORD01000,2026-07-18,14:44,Lunch,Delivery,,None,0.00
+ORD01001,2026-07-18,17:17,Dinner,Pickup,,Happy Hour,8.04
+ORD01002,2026-07-18,21:26,Dinner,Dine-in,5,None,0.00
+ORD01003,2026-07-18,18:44,Dinner,Pickup,,Voucher,11.40
+ORD01004,2026-07-18,17:32,Dinner,Dine-in,5,None,0.00
+ORD01005,2026-07-18,18:42,Dinner,Pickup,,None,0.00
+ORD01006,2026-07-18,14:07,Lunch,Dine-in,5,None,0.00
+ORD01007,2026-07-18,14:22,Lunch,Dine-in,4,None,0.00
+ORD01008,2026-07-18,19:40,Dinner,Dine-in,1,Happy Hour,0.96
+ORD01009,2026-07-18,18:19,Dinner,Dine-in,2,None,0.00
+ORD01010,2026-07-18,21:49,Dinner,Dine-in,4,None,0.00
+ORD01011,2026-07-18,13:59,Lunch,Pickup,,Voucher,0.00
+ORD01012,2026-07-18,12:50,Lunch,Dine-in,5,Happy Hour,2.40
+ORD01013,2026-07-18,17:10,Dinner,Dine-in,,None,0.00
+ORD01014,2026-07-18,13:47,Lunch,Dine-in,4,None,0.00
+ORD01015,2026-07-18,19:56,Dinner,Dine-in,1,Happy Hour,4.14
+ORD01016,2026-07-18,17:52,Dinner,Delivery,,None,0.00
+ORD01017,2026-07-18,21:18,Dinner,Dine-in,,None,0.00
+ORD01018,2026-07-18,11:18,Lunch,Dine-in,2,None,0.00
+ORD01019,2026-07-19,11:17,Lunch,Dine-in,3,Happy Hour,3.00
+ORD01020,2026-07-19,12:13,Lunch,Pickup,,None,0.00
+ORD01021,2026-07-19,18:55,Dinner,Pickup,,None,0.00
+ORD01022,2026-07-19,21:37,Dinner,Dine-in,5,None,0.00
+ORD01023,2026-07-19,20:14,Dinner,Dine-in,2,None,0.00
+ORD01024,2026-07-19,17:04,Dinner,Dine-in,2,None,0.00
+ORD01025,2026-07-19,19:19,Dinner,Delivery,,None,0.00
+ORD01026,2026-07-19,17:02,Dinner,Pickup,,None,0.00
+ORD01027,2026-07-19,17:34,Dinner,Dine-in,2,None,0.00
+ORD01028,2026-07-19,21:56,Dinner,Dine-in,1,None,0.00
+ORD01029,2026-07-19,20:05,Dinner,Delivery,,None,0.00
+ORD01030,2026-07-19,21:17,Dinner,Pickup,,None,0.00
+ORD01031,2026-07-19,11:24,Lunch,Dine-in,5,None,0.00
+ORD01032,2026-07-19,13:08,Lunch,Dine-in,3,None,0.00
+ORD01033,2026-07-19,17:27,Dinner,Dine-in,3,Happy Hour,6.48
+ORD01034,2026-07-19,20:26,Dinner,Dine-in,4,None,0.00
+ORD01035,2026-07-19,17:06,Dinner,Pickup,,None,0.00
+ORD01036,2026-07-19,17:44,Dinner,Pickup,,Happy Hour,4.80
+ORD01037,2026-07-19,14:56,Lunch,Dine-in,3,None,0.00
+ORD01038,2026-07-19,13:37,Lunch,Dine-in,2,None,0.00
+ORD01039,2026-07-19,12:26,Lunch,Dine-in,1,None,0.00
+ORD01040,2026-07-19,14:19,Lunch,Pickup,,None,0.00
+ORD01041,2026-07-19,12:51,Lunch,Delivery,,Happy Hour,12.72
+ORD01042,2026-07-19,19:39,Dinner,Dine-in,1,Happy Hour,2.16
+ORD01043,2026-07-19,12:51,Lunch,Dine-in,4,None,0.00
+ORD01044,2026-07-19,20:39,Dinner,Pickup,,None,0.00
+ORD01045,2026-07-19,21:20,Dinner,Dine-in,5,Happy Hour,12.60
+ORD01046,2026-07-19,17:46,Dinner,Dine-in,2,None,0.00
+ORD01047,2026-07-19,21:12,Dinner,Delivery,,None,0.00
+ORD01048,2026-07-19,18:53,Dinner,Pickup,,None,0.00
+ORD01049,2026-07-19,14:40,Lunch,Dine-in,3,None,0.00
+ORD01050,2026-07-19,17:34,Dinner,Pickup,,None,0.00
+ORD01051,2026-07-19,14:46,Lunch,Dine-in,4,None,0.00
+ORD01052,2026-07-19,12:46,Lunch,Delivery,,None,0.00
+ORD01053,2026-07-19,11:30,Lunch,Dine-in,,None,0.00
+ORD01054,2026-07-19,18:22,Dinner,Dine-in,5,None,0.00
+ORD01055,2026-07-19,19:28,Dinner,Dine-in,2,Voucher,9.60
+ORD01056,2026-07-19,13:05,Lunch,Dine-in,3,None,0.00
+ORD01057,2026-07-19,18:05,Dinner,Delivery,,None,0.00
+ORD01058,2026-07-19,21:41,Dinner,Delivery,,None,0.00
+ORD01059,2026-07-19,21:46,Dinner,Dine-in,1,None,0.00
+ORD01060,2026-07-19,12:46,Lunch,Dine-in,2,None,0.00
+ORD01061,2026-07-19,21:43,Dinner,Dine-in,5,None,0.00
+ORD01062,2026-07-19,12:39,Lunch,Dine-in,5,None,0.00
+ORD01063,2026-07-19,13:59,Lunch,Dine-in,2,None,0.00
+ORD01064,2026-07-19,13:08,Lunch,Pickup,,None,0.00
+ORD01065,2026-07-19,21:01,Dinner,Dine-in,4,None,0.00
+ORD01066,2026-07-19,17:33,Dinner,Dine-in,1,None,0.00
+ORD01067,2026-07-19,17:38,Dinner,Dine-in,1,Happy Hour,6.24
+ORD01068,2026-07-19,18:52,Dinner,Pickup,,Happy Hour,2.88
+ORD01069,2026-07-19,11:48,Lunch,Delivery,,Happy Hour,4.56
+ORD01070,2026-07-19,13:48,Lunch,Dine-in,3,None,0.00
+ORD01071,2026-07-19,13:21,Lunch,Dine-in,1,None,0.00
+ORD01072,2026-07-19,21:58,Dinner,Pickup,,Happy Hour,4.56
+ORD01073,2026-07-19,11:03,Lunch,Pickup,,None,0.00
+ORD01074,2026-07-19,13:10,Lunch,Delivery,,None,0.00
+ORD01075,2026-07-19,17:04,Dinner,Pickup,,None,0.00
+ORD01076,2026-07-20,13:29,Lunch,Dine-in,1,None,0.00
+ORD01077,2026-07-20,18:57,Dinner,Delivery,,Happy Hour,0.96
+ORD01078,2026-07-20,13:06,Lunch,Dine-in,3,None,0.00
+ORD01079,2026-07-20,18:29,Dinner,Dine-in,3,None,0.00
+ORD01080,2026-07-20,17:13,Dinner,Dine-in,2,None,0.00
+ORD01081,2026-07-20,19:39,Dinner,Pickup,,Happy Hour,2.22
+ORD01082,2026-07-20,18:54,Dinner,Delivery,,None,0.00
+ORD01083,2026-07-20,18:52,Dinner,Dine-in,1,None,0.00
+ORD01084,2026-07-20,21:07,Dinner,Delivery,,None,0.00
+ORD01085,2026-07-20,20:12,Dinner,Dine-in,2,None,0.00
+ORD01086,2026-07-20,18:46,Dinner,Delivery,,None,0.00
+ORD01087,2026-07-20,11:12,Lunch,Dine-in,1,Happy Hour,2.58
+ORD01088,2026-07-20,17:33,Dinner,Dine-in,4,Happy Hour,0.96
+ORD01089,2026-07-20,13:46,Lunch,Dine-in,1,None,0.00
+ORD01090,2026-07-20,13:55,Lunch,Pickup,,None,0.00
+ORD01091,2026-07-20,13:12,Lunch,Delivery,,None,0.00
+ORD01092,2026-07-20,17:18,Dinner,Dine-in,3,None,0.00
+ORD01093,2026-07-20,11:34,Lunch,Dine-in,4,Voucher,12.00
+ORD01094,2026-07-20,20:57,Dinner,Delivery,,Happy Hour,3.96
+ORD01095,2026-07-20,18:44,Dinner,Dine-in,4,None,0.00
+ORD01096,2026-07-20,12:52,Lunch,Pickup,,None,0.00
+ORD01097,2026-07-20,18:20,Dinner,Dine-in,3,Happy Hour,1.80
+ORD01098,2026-07-20,19:28,Dinner,Dine-in,2,None,0.00
+ORD01099,2026-07-20,19:28,Dinner,Dine-in,1,Happy Hour,2.16
+ORD01100,2026-07-20,13:31,Lunch,Dine-in,,None,0.00
+ORD01101,2026-07-20,14:52,Lunch,Dine-in,3,None,0.00
+ORD01102,2026-07-20,13:28,Lunch,Pickup,,Happy Hour,2.04
+ORD01103,2026-07-20,21:44,Dinner,Dine-in,3,None,0.00
+ORD01104,2026-07-20,11:24,Lunch,Dine-in,3,Happy Hour,14.52
+ORD01105,2026-07-20,11:06,Lunch,Delivery,,None,0.00
+ORD01106,2026-07-20,12:34,Lunch,Dine-in,4,Happy Hour,0.48
+ORD01107,2026-07-20,13:00,Lunch,Pickup,,None,0.00
+ORD01108,2026-07-20,12:08,Lunch,Dine-in,2,None,0.00
+ORD01109,2026-07-20,19:52,Dinner,Dine-in,5,None,0.00
+ORD01110,2026-07-20,11:21,Lunch,Delivery,,None,0.00
+ORD01111,2026-07-20,13:20,Lunch,Dine-in,2,None,0.00
+ORD01112,2026-07-21,21:22,Dinner,Dine-in,3,None,0.00
+ORD01113,2026-07-21,20:41,Dinner,Delivery,,None,0.00
+ORD01114,2026-07-21,13:56,Lunch,Dine-in,4,None,0.00
+ORD01115,2026-07-21,21:20,Dinner,Dine-in,2,None,0.00
+ORD01116,2026-07-21,18:54,Dinner,Dine-in,3,None,0.00
+ORD01117,2026-07-21,21:59,Dinner,Dine-in,3,None,0.00
+ORD01118,2026-07-21,13:17,Lunch,Delivery,,None,0.00
+ORD01119,2026-07-21,12:25,Lunch,Dine-in,4,Voucher,0.00
+ORD01120,2026-07-21,12:03,Lunch,Dine-in,2,None,0.00
+ORD01121,2026-07-21,19:19,Dinner,Dine-in,3,Happy Hour,6.12
+ORD01122,2026-07-21,13:28,Lunch,Dine-in,4,None,0.00
+ORD01123,2026-07-21,20:54,Dinner,Dine-in,1,None,0.00
+ORD01124,2026-07-21,17:30,Dinner,Delivery,,None,0.00
+ORD01125,2026-07-21,12:49,Lunch,Dine-in,4,None,0.00
+ORD01126,2026-07-21,12:09,Lunch,Dine-in,1,None,0.00
+ORD01127,2026-07-21,13:20,Lunch,Dine-in,2,None,0.00
+ORD01128,2026-07-21,11:38,Lunch,Dine-in,3,None,0.00
+ORD01129,2026-07-21,18:13,Dinner,Delivery,,None,0.00
+ORD01130,2026-07-21,18:14,Dinner,Dine-in,1,None,0.00
+ORD01131,2026-07-21,18:06,Dinner,Delivery,,Happy Hour,3.48
+ORD01132,2026-07-21,12:57,Lunch,Dine-in,1,None,0.00
+ORD01133,2026-07-21,12:50,Lunch,Dine-in,4,None,0.00
+ORD01134,2026-07-21,20:18,Dinner,Pickup,,None,0.00
+ORD01135,2026-07-21,21:22,Dinner,Pickup,,None,0.00
+ORD01136,2026-07-21,11:08,Lunch,Delivery,,Happy Hour,2.16
+ORD01137,2026-07-21,19:19,Dinner,Dine-in,3,Happy Hour,10.80
+ORD01138,2026-07-21,21:04,Dinner,Pickup,,Happy Hour,2.16
+ORD01139,2026-07-21,21:08,Dinner,Delivery,,None,0.00
+ORD01140,2026-07-21,12:57,Lunch,Dine-in,3,None,0.00
+ORD01141,2026-07-21,17:19,Dinner,Dine-in,1,None,0.00
+ORD01142,2026-07-21,14:27,Lunch,Dine-in,,None,0.00
+ORD01143,2026-07-21,13:36,Lunch,Dine-in,,None,0.00
+ORD01144,2026-07-21,14:39,Lunch,Dine-in,1,None,0.00
+ORD01145,2026-07-21,14:48,Lunch,Delivery,,None,0.00
+ORD01146,2026-07-21,17:55,Dinner,Dine-in,5,None,0.00
+ORD01147,2026-07-21,13:05,Lunch,Dine-in,1,None,0.00
+ORD01148,2026-07-21,20:32,Dinner,Pickup,,Happy Hour,3.90
+ORD01149,2026-07-21,14:25,Lunch,Dine-in,4,None,0.00
+ORD01150,2026-07-21,12:17,Lunch,Pickup,,None,0.00
+ORD01151,2026-07-21,20:49,Dinner,Delivery,,Happy Hour,0.96
+ORD01152,2026-07-21,19:12,Dinner,Dine-in,5,None,0.00
+ORD01153,2026-07-21,21:06,Dinner,Dine-in,5,None,0.00
+ORD01154,2026-07-21,17:27,Dinner,Dine-in,4,Voucher,0.00
+ORD01155,2026-07-21,13:09,Lunch,Pickup,,None,0.00
+ORD01156,2026-07-21,17:09,Dinner,Dine-in,5,None,0.00
+ORD01157,2026-07-21,18:26,Dinner,Dine-in,,Voucher,12.00
+ORD01158,2026-07-21,21:08,Dinner,Dine-in,3,None,0.00
+ORD01159,2026-07-21,17:01,Dinner,Pickup,,None,0.00
+ORD01160,2026-07-21,14:38,Lunch,Dine-in,4,None,0.00
+ORD01161,2026-07-21,17:32,Dinner,Dine-in,4,Voucher,12.00
+ORD01162,2026-07-21,19:35,Dinner,Pickup,,None,0.00
+ORD01163,2026-07-21,12:43,Lunch,Dine-in,2,None,0.00
+ORD01164,2026-07-21,20:42,Dinner,Dine-in,4,None,0.00
+ORD01165,2026-07-21,13:13,Lunch,Dine-in,2,None,0.00
+ORD01166,2026-07-21,11:43,Lunch,Pickup,,Voucher,12.00
+ORD01167,2026-07-21,21:21,Dinner,Dine-in,5,None,0.00
+ORD01168,2026-07-21,11:30,Lunch,Delivery,,Happy Hour,3.60
+ORD01169,2026-07-21,12:48,Lunch,Pickup,,Happy Hour,5.40
+ORD01170,2026-07-22,11:28,Lunch,Pickup,,None,0.00
+ORD01171,2026-07-22,20:22,Dinner,Dine-in,4,None,0.00
+ORD01172,2026-07-22,20:57,Dinner,Dine-in,4,Happy Hour,1.92
+ORD01173,2026-07-22,21:05,Dinner,Dine-in,5,None,0.00
+ORD01174,2026-07-22,17:41,Dinner,Dine-in,5,None,0.00
+ORD01175,2026-07-22,19:16,Dinner,Delivery,,None,0.00
+ORD01176,2026-07-22,18:57,Dinner,Dine-in,4,None,0.00
+ORD01177,2026-07-22,20:07,Dinner,Dine-in,1,None,0.00
+ORD01178,2026-07-22,12:16,Lunch,Delivery,,None,0.00
+ORD01179,2026-07-22,11:15,Lunch,Dine-in,5,None,0.00
+ORD01180,2026-07-22,12:20,Lunch,Dine-in,3,None,0.00
+ORD01181,2026-07-22,18:49,Dinner,Delivery,,None,0.00
+ORD01182,2026-07-22,20:14,Dinner,Dine-in,2,Voucher,12.00
+ORD01183,2026-07-22,21:20,Dinner,Pickup,,None,0.00
+ORD01184,2026-07-22,13:02,Lunch,Pickup,,None,0.00
+ORD01185,2026-07-22,20:29,Dinner,Dine-in,4,None,0.00
+ORD01186,2026-07-22,13:07,Lunch,Dine-in,4,None,0.00
+ORD01187,2026-07-22,19:55,Dinner,Dine-in,5,None,0.00
+ORD01188,2026-07-22,17:33,Dinner,Dine-in,2,None,0.00
+ORD01189,2026-07-22,14:37,Lunch,Dine-in,3,None,0.00
+ORD01190,2026-07-22,18:40,Dinner,Dine-in,5,None,0.00
+ORD01191,2026-07-22,13:28,Lunch,Dine-in,3,Happy Hour,3.30
+ORD01192,2026-07-22,11:41,Lunch,Dine-in,4,None,0.00
+ORD01193,2026-07-22,18:22,Dinner,Dine-in,3,None,0.00
+ORD01194,2026-07-22,19:37,Dinner,Dine-in,4,None,0.00
+ORD01195,2026-07-22,17:54,Dinner,Dine-in,,None,0.00
+ORD01196,2026-07-22,17:35,Dinner,Dine-in,3,None,0.00
+ORD01197,2026-07-22,19:48,Dinner,Delivery,,None,0.00
+ORD01198,2026-07-22,19:35,Dinner,Dine-in,4,None,0.00
+ORD01199,2026-07-22,14:55,Lunch,Delivery,,Voucher,0.00
+ORD01200,2026-07-22,19:23,Dinner,Delivery,,Happy Hour,3.60
+ORD01201,2026-07-22,12:10,Lunch,Dine-in,4,None,0.00
+ORD01202,2026-07-22,14:17,Lunch,Dine-in,2,Happy Hour,7.08
+ORD01203,2026-07-22,18:31,Dinner,Dine-in,4,Happy Hour,6.84
+ORD01204,2026-07-22,13:05,Lunch,Dine-in,4,None,0.00
+ORD01205,2026-07-22,20:41,Dinner,Dine-in,2,None,0.00
+ORD01206,2026-07-22,18:22,Dinner,Pickup,,None,0.00
+ORD01207,2026-07-22,11:00,Lunch,Dine-in,3,None,0.00
+ORD01208,2026-07-22,14:03,Lunch,Dine-in,3,None,0.00
+ORD01209,2026-07-22,17:10,Dinner,Dine-in,5,None,0.00
+ORD01210,2026-07-22,20:10,Dinner,Dine-in,4,Happy Hour,0.42
+ORD01211,2026-07-22,17:08,Dinner,Pickup,,Happy Hour,5.64
+ORD01212,2026-07-22,19:50,Dinner,Dine-in,2,None,0.00
+ORD01213,2026-07-22,19:21,Dinner,Dine-in,1,Happy Hour,8.16
+ORD01214,2026-07-22,11:22,Lunch,Dine-in,1,None,0.00
+ORD01215,2026-07-22,12:36,Lunch,Dine-in,5,None,0.00
+ORD01216,2026-07-22,19:27,Dinner,Dine-in,1,None,0.00
+ORD01217,2026-07-22,14:30,Lunch,Pickup,,None,0.00
+ORD01218,2026-07-22,17:09,Dinner,Dine-in,1,Happy Hour,0.42
+ORD01219,2026-07-22,21:09,Dinner,Delivery,,None,0.00
+ORD01220,2026-07-22,14:10,Lunch,Dine-in,1,None,0.00
+ORD01221,2026-07-22,11:57,Lunch,Dine-in,1,None,0.00
+ORD01222,2026-07-22,14:11,Lunch,Pickup,,None,0.00
+ORD01223,2026-07-22,17:12,Dinner,Pickup,,Happy Hour,4.44
+ORD01224,2026-07-22,12:36,Lunch,Delivery,,None,0.00
+ORD01225,2026-07-22,19:11,Dinner,Pickup,,Happy Hour,8.70
+ORD01226,2026-07-23,14:41,Lunch,Delivery,,None,0.00
+ORD01227,2026-07-23,13:44,Lunch,Dine-in,2,None,0.00
+ORD01228,2026-07-23,20:41,Dinner,Dine-in,1,None,0.00
+ORD01229,2026-07-23,21:01,Dinner,Delivery,,Happy Hour,5.88
+ORD01230,2026-07-23,17:45,Dinner,Dine-in,2,None,0.00
+ORD01231,2026-07-23,18:00,Dinner,Pickup,,None,0.00
+ORD01232,2026-07-23,11:42,Lunch,Dine-in,3,Happy Hour,4.80
+ORD01233,2026-07-23,17:33,Dinner,Delivery,,None,0.00
+ORD01234,2026-07-23,18:09,Dinner,Dine-in,1,Voucher,12.00
+ORD01235,2026-07-23,19:05,Dinner,Dine-in,1,Voucher,0.00
+ORD01236,2026-07-23,14:48,Lunch,Dine-in,5,None,0.00
+ORD01237,2026-07-23,21:41,Dinner,Dine-in,4,None,0.00
+ORD01238,2026-07-23,11:11,Lunch,Dine-in,2,Happy Hour,1.80
+ORD01239,2026-07-23,21:04,Dinner,Dine-in,2,None,0.00
+ORD01240,2026-07-23,20:05,Dinner,Dine-in,1,None,0.00
+ORD01241,2026-07-23,14:20,Lunch,Dine-in,4,Happy Hour,4.56
+ORD01242,2026-07-23,14:50,Lunch,Dine-in,1,None,0.00
+ORD01243,2026-07-23,13:03,Lunch,Dine-in,1,None,0.00
+ORD01244,2026-07-23,13:11,Lunch,Delivery,,Happy Hour,13.68
+ORD01245,2026-07-23,21:57,Dinner,Pickup,,None,0.00
+ORD01246,2026-07-23,14:47,Lunch,Dine-in,3,None,0.00
+ORD01247,2026-07-23,11:48,Lunch,Delivery,,None,0.00
+ORD01248,2026-07-23,12:41,Lunch,Dine-in,,Happy Hour,10.44
+ORD01249,2026-07-23,11:39,Lunch,Dine-in,4,Happy Hour,7.80
+ORD01250,2026-07-23,13:43,Lunch,Pickup,,None,0.00
+ORD01251,2026-07-23,11:21,Lunch,Pickup,,None,0.00
+ORD01252,2026-07-23,14:45,Lunch,Delivery,,None,0.00
+ORD01253,2026-07-23,17:34,Dinner,Dine-in,2,Voucher,0.00
+ORD01254,2026-07-23,20:17,Dinner,Dine-in,5,Voucher,8.40
+ORD01255,2026-07-23,21:33,Dinner,Delivery,,Happy Hour,9.00
+ORD01256,2026-07-23,13:47,Lunch,Dine-in,4,Happy Hour,0.84
+ORD01257,2026-07-23,19:11,Dinner,Dine-in,3,None,0.00
+ORD01258,2026-07-23,12:23,Lunch,Dine-in,3,None,0.00
+ORD01259,2026-07-23,20:13,Dinner,Dine-in,1,None,0.00
+ORD01260,2026-07-23,12:00,Lunch,Pickup,,Voucher,0.00
+ORD01261,2026-07-23,12:43,Lunch,Dine-in,2,Voucher,12.00
+ORD01262,2026-07-23,13:39,Lunch,Dine-in,5,None,0.00
+ORD01263,2026-07-23,14:50,Lunch,Delivery,,None,0.00
+ORD01264,2026-07-23,18:41,Dinner,Dine-in,5,Happy Hour,9.24
+ORD01265,2026-07-23,12:37,Lunch,Dine-in,3,Happy Hour,2.64
+ORD01266,2026-07-23,18:53,Dinner,Dine-in,1,Happy Hour,3.12
+ORD01267,2026-07-23,13:29,Lunch,Dine-in,2,None,0.00
+ORD01268,2026-07-23,17:14,Dinner,Dine-in,4,None,0.00
+ORD01269,2026-07-23,14:36,Lunch,Pickup,,Happy Hour,4.92
+ORD01270,2026-07-23,20:01,Dinner,Dine-in,4,Happy Hour,0.48
+ORD01271,2026-07-23,17:11,Dinner,Dine-in,5,None,0.00
+ORD01272,2026-07-23,19:39,Dinner,Delivery,,None,0.00
+ORD01273,2026-07-23,19:46,Dinner,Dine-in,2,None,0.00
+ORD01274,2026-07-23,13:51,Lunch,Pickup,,Voucher,9.90
+ORD01275,2026-07-23,14:47,Lunch,Dine-in,1,None,0.00
+ORD01276,2026-07-23,18:50,Dinner,Pickup,,Happy Hour,0.90
+ORD01277,2026-07-23,14:36,Lunch,Dine-in,2,None,0.00
+ORD01278,2026-07-23,19:45,Dinner,Dine-in,2,None,0.00
+ORD01279,2026-07-23,13:54,Lunch,Dine-in,2,Happy Hour,4.92
+ORD01280,2026-07-23,14:51,Lunch,Dine-in,3,None,0.00
+ORD01281,2026-07-23,13:21,Lunch,Dine-in,2,None,0.00
+ORD01282,2026-07-24,20:56,Dinner,Dine-in,4,None,0.00
+ORD01283,2026-07-24,19:51,Dinner,Dine-in,3,None,0.00
+ORD01284,2026-07-24,20:49,Dinner,Pickup,,None,0.00
+ORD01285,2026-07-24,14:02,Lunch,Dine-in,4,None,0.00
+ORD01286,2026-07-24,11:39,Lunch,Dine-in,4,None,0.00
+ORD01287,2026-07-24,17:03,Dinner,Dine-in,4,Voucher,0.00
+ORD01288,2026-07-24,18:28,Dinner,Dine-in,1,None,0.00
+ORD01289,2026-07-24,17:43,Dinner,Delivery,,None,0.00
+ORD01290,2026-07-24,19:52,Dinner,Delivery,,None,0.00
+ORD01291,2026-07-24,12:36,Lunch,Dine-in,3,None,0.00
+ORD01292,2026-07-24,17:26,Dinner,Delivery,,None,0.00
+ORD01293,2026-07-24,12:03,Lunch,Dine-in,2,Happy Hour,1.26
+ORD01294,2026-07-24,12:58,Lunch,Delivery,,None,0.00
+ORD01295,2026-07-24,11:19,Lunch,Dine-in,3,None,0.00
+ORD01296,2026-07-24,17:09,Dinner,Pickup,,None,0.00
+ORD01297,2026-07-24,19:01,Dinner,Dine-in,3,None,0.00
+ORD01298,2026-07-24,13:51,Lunch,Pickup,,None,0.00
+ORD01299,2026-07-24,12:06,Lunch,Delivery,,Happy Hour,3.36
+ORD01300,2026-07-24,20:12,Dinner,Delivery,,None,0.00
+ORD01301,2026-07-24,14:10,Lunch,Dine-in,5,None,0.00
+ORD01302,2026-07-24,12:10,Lunch,Dine-in,2,None,0.00
+ORD01303,2026-07-24,14:52,Lunch,Dine-in,2,None,0.00
+ORD01304,2026-07-24,13:38,Lunch,Dine-in,3,Happy Hour,4.80
+ORD01305,2026-07-24,13:08,Lunch,Dine-in,5,None,0.00
+ORD01306,2026-07-24,13:55,Lunch,Dine-in,1,Voucher,0.00
+ORD01307,2026-07-24,13:18,Lunch,Delivery,,Happy Hour,7.08
+ORD01308,2026-07-24,19:03,Dinner,Delivery,,None,0.00
+ORD01309,2026-07-24,11:29,Lunch,Delivery,,Happy Hour,2.64
+ORD01310,2026-07-24,13:01,Lunch,Dine-in,4,None,0.00
+ORD01311,2026-07-24,14:09,Lunch,Dine-in,2,Happy Hour,0.48
+ORD01312,2026-07-24,21:34,Dinner,Delivery,,None,0.00
+ORD01313,2026-07-24,18:19,Dinner,Delivery,,None,0.00
+ORD01314,2026-07-24,11:24,Lunch,Pickup,,None,0.00
+ORD01315,2026-07-24,18:01,Dinner,Pickup,,None,0.00
+ORD01316,2026-07-24,11:46,Lunch,Dine-in,4,None,0.00
+ORD01317,2026-07-24,21:48,Dinner,Dine-in,3,None,0.00
+ORD01318,2026-07-24,13:42,Lunch,Pickup,,None,0.00
+ORD01319,2026-07-24,20:55,Dinner,Pickup,,None,0.00
+ORD01320,2026-07-24,13:12,Lunch,Dine-in,1,None,0.00
+ORD01321,2026-07-24,19:36,Dinner,Dine-in,4,None,0.00
+ORD01322,2026-07-24,13:11,Lunch,Pickup,,None,0.00
+ORD01323,2026-07-24,11:38,Lunch,Dine-in,4,None,0.00
+ORD01324,2026-07-24,19:29,Dinner,Dine-in,2,None,0.00
+ORD01325,2026-07-24,17:50,Dinner,Delivery,,None,0.00
+ORD01326,2026-07-24,12:12,Lunch,Dine-in,5,None,0.00
+ORD01327,2026-07-24,11:37,Lunch,Dine-in,4,None,0.00
+ORD01328,2026-07-24,18:11,Dinner,Delivery,,None,0.00
+ORD01329,2026-07-24,18:59,Dinner,Dine-in,3,None,0.00
+ORD01330,2026-07-24,13:08,Lunch,Pickup,,None,0.00
+ORD01331,2026-07-24,17:25,Dinner,Pickup,,Happy Hour,6.24
+ORD01332,2026-07-24,19:51,Dinner,Dine-in,5,None,0.00
+ORD01333,2026-07-24,19:12,Dinner,Dine-in,1,None,0.00
+ORD01334,2026-07-24,18:12,Dinner,Dine-in,5,None,0.00
+ORD01335,2026-07-24,20:16,Dinner,Pickup,,Happy Hour,2.16
+ORD01336,2026-07-24,13:14,Lunch,Dine-in,,None,0.00
+ORD01337,2026-07-24,12:56,Lunch,Dine-in,4,None,0.00
+ORD01338,2026-07-24,12:39,Lunch,Dine-in,5,None,0.00
+ORD01339,2026-07-24,13:37,Lunch,Pickup,,None,0.00
+ORD01340,2026-07-24,21:34,Dinner,Dine-in,1,None,0.00
+ORD01341,2026-07-24,18:02,Dinner,Dine-in,3,None,0.00
+ORD01342,2026-07-24,19:41,Dinner,Dine-in,4,None,0.00
+ORD01343,2026-07-24,18:47,Dinner,Dine-in,3,None,0.00
+ORD01344,2026-07-24,19:05,Dinner,Delivery,,None,0.00
+ORD01345,2026-07-24,18:05,Dinner,Pickup,,Voucher,0.00
+ORD01346,2026-07-24,18:35,Dinner,Pickup,,None,0.00
+ORD01347,2026-07-24,11:42,Lunch,Dine-in,4,Voucher,12.00
+ORD01348,2026-07-24,17:40,Dinner,Dine-in,3,None,0.00
+ORD01349,2026-07-24,14:34,Lunch,Dine-in,1,None,0.00
+ORD01350,2026-07-25,12:26,Lunch,Pickup,,None,0.00
+ORD01351,2026-07-25,11:58,Lunch,Pickup,,None,0.00
+ORD01352,2026-07-25,11:38,Lunch,Delivery,,None,0.00
+ORD01353,2026-07-25,18:54,Dinner,Pickup,,Happy Hour,4.20
+ORD01354,2026-07-25,19:23,Dinner,Dine-in,1,None,0.00
+ORD01355,2026-07-25,20:30,Dinner,Dine-in,3,None,0.00
+ORD01356,2026-07-25,19:38,Dinner,Dine-in,4,None,0.00
+ORD01357,2026-07-25,11:12,Lunch,Delivery,,Happy Hour,8.04
+ORD01358,2026-07-25,19:43,Dinner,Dine-in,3,None,0.00
+ORD01359,2026-07-25,14:33,Lunch,Dine-in,4,None,0.00
+ORD01360,2026-07-25,20:27,Dinner,Dine-in,5,None,0.00
+ORD01361,2026-07-25,19:49,Dinner,Dine-in,4,None,0.00
+ORD01362,2026-07-25,14:50,Lunch,Dine-in,1,None,0.00
+ORD01363,2026-07-25,21:18,Dinner,Pickup,,None,0.00
+ORD01364,2026-07-25,20:03,Dinner,Dine-in,4,None,0.00
+ORD01365,2026-07-25,21:33,Dinner,Delivery,,Voucher,0.00
+ORD01366,2026-07-25,21:51,Dinner,Dine-in,4,None,0.00
+ORD01367,2026-07-25,11:39,Lunch,Dine-in,5,None,0.00
+ORD01368,2026-07-25,18:57,Dinner,Pickup,,Happy Hour,6.48
+ORD01369,2026-07-25,14:13,Lunch,Dine-in,2,Happy Hour,3.48
+ORD01370,2026-07-25,12:46,Lunch,Delivery,,None,0.00
+ORD01371,2026-07-25,14:12,Lunch,Dine-in,5,None,0.00
+ORD01372,2026-07-25,21:00,Dinner,Dine-in,2,None,0.00
+ORD01373,2026-07-25,13:44,Lunch,Dine-in,5,None,0.00
+ORD01374,2026-07-25,17:11,Dinner,Pickup,,Happy Hour,2.64
+ORD01375,2026-07-25,12:31,Lunch,Pickup,,None,0.00
+ORD01376,2026-07-25,12:10,Lunch,Dine-in,2,None,0.00
+ORD01377,2026-07-25,14:55,Lunch,Dine-in,5,None,0.00
+ORD01378,2026-07-25,17:24,Dinner,Dine-in,1,None,0.00
+ORD01379,2026-07-25,20:07,Dinner,Dine-in,5,None,0.00
+ORD01380,2026-07-25,19:52,Dinner,Pickup,,None,0.00
+ORD01381,2026-07-25,11:49,Lunch,Dine-in,4,Happy Hour,3.60
+ORD01382,2026-07-25,19:17,Dinner,Pickup,,None,0.00
+ORD01383,2026-07-25,20:53,Dinner,Delivery,,Voucher,11.70
+ORD01384,2026-07-25,13:49,Lunch,Delivery,,None,0.00
+ORD01385,2026-07-25,21:24,Dinner,Dine-in,5,None,0.00
+ORD01386,2026-07-25,21:01,Dinner,Pickup,,None,0.00
+ORD01387,2026-07-25,20:01,Dinner,Dine-in,5,None,0.00
+ORD01388,2026-07-25,12:03,Lunch,Dine-in,1,None,0.00
+ORD01389,2026-07-25,11:11,Lunch,Dine-in,2,None,0.00
+ORD01390,2026-07-25,21:11,Dinner,Delivery,,None,0.00
+ORD01391,2026-07-25,11:10,Lunch,Dine-in,5,None,0.00
+ORD01392,2026-07-25,12:38,Lunch,Dine-in,4,None,0.00
+ORD01393,2026-07-25,21:36,Dinner,Delivery,,Happy Hour,10.32
+ORD01394,2026-07-25,18:02,Dinner,Pickup,,Happy Hour,6.60
+ORD01395,2026-07-25,20:31,Dinner,Pickup,,None,0.00
+ORD01396,2026-07-25,21:21,Dinner,Dine-in,1,None,0.00
+ORD01397,2026-07-25,14:01,Lunch,Delivery,,None,0.00
+ORD01398,2026-07-25,20:00,Dinner,Dine-in,5,None,0.00
+ORD01399,2026-07-25,17:29,Dinner,Dine-in,4,None,0.00
+ORD01400,2026-07-25,18:03,Dinner,Dine-in,3,Happy Hour,8.64
+ORD01401,2026-07-25,12:41,Lunch,Pickup,,None,0.00
+ORD01402,2026-07-25,19:05,Dinner,Dine-in,5,Happy Hour,1.32
+ORD01403,2026-07-25,12:48,Lunch,Delivery,,None,0.00
+ORD01404,2026-07-25,17:45,Dinner,Dine-in,5,None,0.00
+ORD01405,2026-07-25,13:24,Lunch,Dine-in,1,None,0.00
+ORD01406,2026-07-25,20:35,Dinner,Dine-in,1,Happy Hour,4.08
+ORD01407,2026-07-25,17:02,Dinner,Dine-in,2,None,0.00
+ORD01408,2026-07-25,17:02,Dinner,Delivery,,Voucher,0.00
+ORD01409,2026-07-25,13:29,Lunch,Dine-in,5,None,0.00
+ORD01410,2026-07-25,14:37,Lunch,Dine-in,5,None,0.00
+ORD01411,2026-07-25,17:43,Dinner,Dine-in,5,Voucher,10.80
+ORD01412,2026-07-25,19:49,Dinner,Delivery,,None,0.00
+ORD01413,2026-07-25,18:56,Dinner,Dine-in,1,Happy Hour,9.48
+ORD01414,2026-07-25,14:53,Lunch,Delivery,,None,0.00
+ORD01415,2026-07-25,19:16,Dinner,Pickup,,None,0.00
+ORD01416,2026-07-25,19:28,Dinner,Dine-in,2,Voucher,9.90
+ORD01417,2026-07-25,21:52,Dinner,Delivery,,None,0.00
+ORD01418,2026-07-25,20:02,Dinner,Dine-in,2,None,0.00
+ORD01419,2026-07-25,21:30,Dinner,Dine-in,5,Happy Hour,4.08
+ORD01420,2026-07-25,21:40,Dinner,Delivery,,None,0.00
+ORD01421,2026-07-25,14:51,Lunch,Delivery,,None,0.00
+ORD01422,2026-07-25,14:15,Lunch,Dine-in,2,Happy Hour,1.26
+ORD01423,2026-07-25,11:07,Lunch,Pickup,,None,0.00
+ORD01424,2026-07-25,20:49,Dinner,Dine-in,2,None,0.00
+ORD01425,2026-07-25,20:36,Dinner,Pickup,,Happy Hour,3.96
+ORD01426,2026-07-25,19:55,Dinner,Delivery,,Voucher,12.00
+ORD01427,2026-07-25,20:36,Dinner,Dine-in,4,None,0.00
+ORD01428,2026-07-25,20:31,Dinner,Delivery,,Voucher,0.00
+ORD01429,2026-07-25,12:54,Lunch,Delivery,,None,0.00
+ORD01430,2026-07-25,20:42,Dinner,Delivery,,None,0.00
+ORD01431,2026-07-25,14:29,Lunch,Dine-in,1,Happy Hour,7.32
+ORD01432,2026-07-26,12:51,Lunch,Dine-in,4,None,0.00
+ORD01433,2026-07-26,11:16,Lunch,Dine-in,5,None,0.00
+ORD01434,2026-07-26,20:29,Dinner,Pickup,,None,0.00
+ORD01435,2026-07-26,12:48,Lunch,Delivery,,Happy Hour,10.08
+ORD01436,2026-07-26,18:07,Dinner,Pickup,,None,0.00
+ORD01437,2026-07-26,18:19,Dinner,Pickup,,None,0.00
+ORD01438,2026-07-26,17:56,Dinner,Delivery,,Voucher,0.00
+ORD01439,2026-07-26,18:55,Dinner,Dine-in,5,Voucher,0.00
+ORD01440,2026-07-26,19:24,Dinner,Dine-in,5,None,0.00
+ORD01441,2026-07-26,11:25,Lunch,Dine-in,3,None,0.00
+ORD01442,2026-07-26,18:08,Dinner,Delivery,,None,0.00
+ORD01443,2026-07-26,18:33,Dinner,Dine-in,5,None,0.00
+ORD01444,2026-07-26,18:55,Dinner,Dine-in,5,None,0.00
+ORD01445,2026-07-26,11:35,Lunch,Dine-in,4,None,0.00
+ORD01446,2026-07-26,11:40,Lunch,Dine-in,3,None,0.00
+ORD01447,2026-07-26,12:13,Lunch,Dine-in,2,None,0.00
+ORD01448,2026-07-26,13:56,Lunch,Dine-in,3,Happy Hour,8.16
+ORD01449,2026-07-26,19:01,Dinner,Delivery,,None,0.00
+ORD01450,2026-07-26,18:22,Dinner,Dine-in,4,Happy Hour,3.84
+ORD01451,2026-07-26,17:01,Dinner,Dine-in,3,Happy Hour,3.60
+ORD01452,2026-07-26,20:46,Dinner,Dine-in,3,None,0.00
+ORD01453,2026-07-26,20:09,Dinner,Pickup,,None,0.00
+ORD01454,2026-07-26,21:42,Dinner,Dine-in,4,None,0.00
+ORD01455,2026-07-26,19:28,Dinner,Pickup,,None,0.00
+ORD01456,2026-07-26,17:47,Dinner,Dine-in,3,None,0.00
+ORD01457,2026-07-26,21:12,Dinner,Dine-in,3,None,0.00
+ORD01458,2026-07-26,21:35,Dinner,Pickup,,Happy Hour,2.64
+ORD01459,2026-07-26,17:00,Dinner,Delivery,,None,0.00
+ORD01460,2026-07-26,11:33,Lunch,Pickup,,None,0.00
+ORD01461,2026-07-26,14:56,Lunch,Pickup,,Happy Hour,2.28
+ORD01462,2026-07-26,17:29,Dinner,Dine-in,1,Happy Hour,5.76
+ORD01463,2026-07-26,19:05,Dinner,Delivery,,None,0.00
+ORD01464,2026-07-26,14:17,Lunch,Pickup,,Voucher,12.00
+ORD01465,2026-07-26,19:47,Dinner,Dine-in,5,None,0.00
+ORD01466,2026-07-26,11:17,Lunch,Delivery,,None,0.00
+ORD01467,2026-07-26,13:21,Lunch,Dine-in,5,None,0.00
+ORD01468,2026-07-26,18:23,Dinner,Dine-in,1,None,0.00
+ORD01469,2026-07-26,20:18,Dinner,Dine-in,5,None,0.00
+ORD01470,2026-07-26,20:45,Dinner,Pickup,,Happy Hour,3.00
+ORD01471,2026-07-26,20:58,Dinner,Dine-in,5,None,0.00
+ORD01472,2026-07-26,20:16,Dinner,Dine-in,5,None,0.00
+ORD01473,2026-07-26,12:50,Lunch,Dine-in,1,None,0.00
+ORD01474,2026-07-26,13:30,Lunch,Dine-in,3,Happy Hour,1.74
+ORD01475,2026-07-26,12:50,Lunch,Dine-in,1,Happy Hour,0.48
+ORD01476,2026-07-26,14:26,Lunch,Dine-in,2,None,0.00
+ORD01477,2026-07-26,20:13,Dinner,Dine-in,3,None,0.00
+ORD01478,2026-07-26,21:47,Dinner,Dine-in,1,None,0.00
+ORD01479,2026-07-26,14:45,Lunch,Delivery,,None,0.00
+ORD01480,2026-07-26,11:21,Lunch,Dine-in,4,None,0.00
+ORD01481,2026-07-26,18:03,Dinner,Dine-in,4,None,0.00
+ORD01482,2026-07-26,13:50,Lunch,Delivery,,Happy Hour,3.48
+ORD01483,2026-07-26,12:05,Lunch,Dine-in,4,None,0.00
+ORD01484,2026-07-26,12:00,Lunch,Delivery,,Happy Hour,3.90
+ORD01485,2026-07-26,12:07,Lunch,Pickup,,None,0.00
+ORD01486,2026-07-26,20:21,Dinner,Dine-in,2,Happy Hour,5.82
+ORD01487,2026-07-26,21:50,Dinner,Dine-in,5,Happy Hour,4.26
+ORD01488,2026-07-26,17:38,Dinner,Pickup,,None,0.00
+ORD01489,2026-07-26,21:51,Dinner,Pickup,,Happy Hour,1.80
+ORD01490,2026-07-26,18:39,Dinner,Dine-in,3,Happy Hour,3.60
+ORD01491,2026-07-26,20:36,Dinner,Dine-in,3,None,0.00
+ORD01492,2026-07-26,21:26,Dinner,Dine-in,3,None,0.00
+ORD01493,2026-07-26,13:06,Lunch,Dine-in,2,Happy Hour,1.80
+ORD01494,2026-07-27,13:25,Lunch,Dine-in,5,None,0.00
+ORD01495,2026-07-27,17:57,Dinner,Dine-in,1,None,0.00
+ORD01496,2026-07-27,14:13,Lunch,Dine-in,1,None,0.00
+ORD01497,2026-07-27,17:07,Dinner,Dine-in,3,Happy Hour,2.16
+ORD01498,2026-07-27,17:55,Dinner,Delivery,,Happy Hour,7.80
+ORD01499,2026-07-27,13:31,Lunch,Pickup,,None,0.00
+ORD01500,2026-07-27,13:34,Lunch,Delivery,,None,0.00
+ORD01501,2026-07-27,11:21,Lunch,Delivery,,None,0.00
+ORD01502,2026-07-27,19:57,Dinner,Dine-in,3,Happy Hour,4.56
+ORD01503,2026-07-27,12:53,Lunch,Dine-in,1,Voucher,0.00
+ORD01504,2026-07-27,17:28,Dinner,Dine-in,5,None,0.00
+ORD01505,2026-07-27,20:20,Dinner,Dine-in,5,None,0.00
+ORD01506,2026-07-27,21:51,Dinner,Dine-in,3,None,0.00
+ORD01507,2026-07-27,18:34,Dinner,Delivery,,None,0.00
+ORD01508,2026-07-27,18:23,Dinner,Pickup,,None,0.00
+ORD01509,2026-07-27,20:30,Dinner,Pickup,,None,0.00
+ORD01510,2026-07-27,19:42,Dinner,Dine-in,4,Happy Hour,2.40
+ORD01511,2026-07-27,13:01,Lunch,Dine-in,4,None,0.00
+ORD01512,2026-07-27,17:05,Dinner,Delivery,,None,0.00
+ORD01513,2026-07-27,14:12,Lunch,Delivery,,None,0.00
+ORD01514,2026-07-27,17:53,Dinner,Dine-in,2,None,0.00
+ORD01515,2026-07-27,13:38,Lunch,Pickup,,None,0.00
+ORD01516,2026-07-27,21:40,Dinner,Dine-in,5,None,0.00
+ORD01517,2026-07-27,19:44,Dinner,Dine-in,1,None,0.00
+ORD01518,2026-07-27,21:38,Dinner,Pickup,,None,0.00
+ORD01519,2026-07-27,18:47,Dinner,Dine-in,3,None,0.00
+ORD01520,2026-07-27,13:27,Lunch,Dine-in,,None,0.00
+ORD01521,2026-07-27,19:04,Dinner,Pickup,,None,0.00
+ORD01522,2026-07-27,12:15,Lunch,Dine-in,3,None,0.00
+ORD01523,2026-07-27,18:48,Dinner,Delivery,,None,0.00
+ORD01524,2026-07-27,12:16,Lunch,Dine-in,1,None,0.00
+ORD01525,2026-07-27,19:33,Dinner,Dine-in,5,None,0.00
+ORD01526,2026-07-27,19:40,Dinner,Dine-in,5,None,0.00
+ORD01527,2026-07-27,12:43,Lunch,Dine-in,2,None,0.00
+ORD01528,2026-07-27,13:11,Lunch,Delivery,,None,0.00
+ORD01529,2026-07-27,20:36,Dinner,Dine-in,4,None,0.00
+ORD01530,2026-07-27,19:54,Dinner,Dine-in,2,None,0.00
+ORD01531,2026-07-27,11:26,Lunch,Dine-in,4,None,0.00
+ORD01532,2026-07-27,14:32,Lunch,Pickup,,None,0.00
+ORD01533,2026-07-27,13:17,Lunch,Dine-in,3,None,0.00
+ORD01534,2026-07-27,14:55,Lunch,Dine-in,,None,0.00
+ORD01535,2026-07-27,13:54,Lunch,Dine-in,5,Happy Hour,4.20
+ORD01536,2026-07-27,14:07,Lunch,Dine-in,5,None,0.00
+ORD01537,2026-07-27,11:05,Lunch,Pickup,,Voucher,12.00
+ORD01538,2026-07-27,14:15,Lunch,Dine-in,2,Happy Hour,3.12
+ORD01539,2026-07-27,11:01,Lunch,Dine-in,3,None,0.00
+ORD01540,2026-07-27,17:41,Dinner,Dine-in,3,Voucher,10.20
+ORD01541,2026-07-27,11:23,Lunch,Pickup,,Voucher,12.00
+ORD01542,2026-07-27,17:22,Dinner,Delivery,,None,0.00
+ORD01543,2026-07-27,21:56,Dinner,Delivery,,None,0.00
+ORD01544,2026-07-27,20:19,Dinner,Delivery,,None,0.00
+ORD01545,2026-07-27,14:04,Lunch,Dine-in,3,None,0.00
+ORD01546,2026-07-27,20:31,Dinner,Dine-in,3,None,0.00
+ORD01547,2026-07-27,17:26,Dinner,Dine-in,1,Happy Hour,4.08
+ORD01548,2026-07-27,14:10,Lunch,Dine-in,3,None,0.00
+ORD01549,2026-07-28,18:49,Dinner,Pickup,,None,0.00
+ORD01550,2026-07-28,17:07,Dinner,Pickup,,Happy Hour,5.40
+ORD01551,2026-07-28,21:51,Dinner,Pickup,,None,0.00
+ORD01552,2026-07-28,18:54,Dinner,Dine-in,2,None,0.00
+ORD01553,2026-07-28,21:21,Dinner,Dine-in,4,None,0.00
+ORD01554,2026-07-28,12:10,Lunch,Dine-in,5,None,0.00
+ORD01555,2026-07-28,17:58,Dinner,Dine-in,4,Happy Hour,0.42
+ORD01556,2026-07-28,21:59,Dinner,Dine-in,4,None,0.00
+ORD01557,2026-07-28,13:01,Lunch,Dine-in,4,None,0.00
+ORD01558,2026-07-28,21:21,Dinner,Pickup,,None,0.00
+ORD01559,2026-07-28,17:46,Dinner,Delivery,,Happy Hour,1.80
+ORD01560,2026-07-28,21:06,Dinner,Dine-in,5,None,0.00
+ORD01561,2026-07-28,14:44,Lunch,Delivery,,None,0.00
+ORD01562,2026-07-28,20:53,Dinner,Pickup,,None,0.00
+ORD01563,2026-07-28,13:34,Lunch,Dine-in,4,Happy Hour,7.56
+ORD01564,2026-07-28,12:35,Lunch,Dine-in,4,None,0.00
+ORD01565,2026-07-28,18:42,Dinner,Dine-in,1,None,0.00
+ORD01566,2026-07-28,18:41,Dinner,Dine-in,4,None,0.00
+ORD01567,2026-07-28,21:55,Dinner,Delivery,,None,0.00
+ORD01568,2026-07-28,19:23,Dinner,Pickup,,None,0.00
+ORD01569,2026-07-28,12:49,Lunch,Dine-in,5,None,0.00
+ORD01570,2026-07-28,19:57,Dinner,Dine-in,5,None,0.00
+ORD01571,2026-07-28,18:17,Dinner,Dine-in,1,None,0.00
+ORD01572,2026-07-28,12:21,Lunch,Dine-in,2,None,0.00
+ORD01573,2026-07-28,18:52,Dinner,Dine-in,1,None,0.00
+ORD01574,2026-07-28,19:14,Dinner,Dine-in,2,None,0.00
+ORD01575,2026-07-28,18:14,Dinner,Delivery,,None,0.00
+ORD01576,2026-07-28,13:36,Lunch,Pickup,,None,0.00
+ORD01577,2026-07-28,21:03,Dinner,Dine-in,5,None,0.00
+ORD01578,2026-07-28,12:17,Lunch,Dine-in,3,Happy Hour,2.28
+ORD01579,2026-07-28,18:35,Dinner,Dine-in,3,None,0.00
+ORD01580,2026-07-28,12:38,Lunch,Dine-in,5,None,0.00
+ORD01581,2026-07-28,13:34,Lunch,Dine-in,1,None,0.00
+ORD01582,2026-07-28,11:57,Lunch,Dine-in,2,None,0.00
+ORD01583,2026-07-28,12:17,Lunch,Pickup,,Happy Hour,0.48
+ORD01584,2026-07-28,19:55,Dinner,Dine-in,2,Happy Hour,3.72
+ORD01585,2026-07-28,13:06,Lunch,Dine-in,1,Happy Hour,0.48
+ORD01586,2026-07-28,14:04,Lunch,Pickup,,None,0.00
+ORD01587,2026-07-28,21:13,Dinner,Dine-in,2,None,0.00
+ORD01588,2026-07-28,19:29,Dinner,Dine-in,1,Happy Hour,5.88
+ORD01589,2026-07-28,17:53,Dinner,Dine-in,4,Happy Hour,4.56
+ORD01590,2026-07-28,19:56,Dinner,Pickup,,None,0.00
+ORD01591,2026-07-28,11:48,Lunch,Dine-in,1,None,0.00
+ORD01592,2026-07-28,20:55,Dinner,Delivery,,Happy Hour,0.42
+ORD01593,2026-07-28,12:24,Lunch,Dine-in,4,None,0.00
+ORD01594,2026-07-28,20:05,Dinner,Pickup,,None,0.00
+ORD01595,2026-07-28,20:39,Dinner,Pickup,,None,0.00
+ORD01596,2026-07-28,19:38,Dinner,Pickup,,None,0.00
+ORD01597,2026-07-28,14:13,Lunch,Dine-in,5,Voucher,0.00
+ORD01598,2026-07-28,11:36,Lunch,Dine-in,2,None,0.00
+ORD01599,2026-07-28,19:34,Dinner,Dine-in,5,None,0.00
+ORD01600,2026-07-28,21:05,Dinner,Dine-in,3,None,0.00
+ORD01601,2026-07-28,19:48,Dinner,Dine-in,2,None,0.00
+ORD01602,2026-07-28,13:53,Lunch,Dine-in,,Happy Hour,4.44
