@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Restaurant Analytics · Fictional Portfolio Demo</title>
+<style>
+:root{--ink:#132437;--sub:#64748b;--blue:#2563eb;--line:#dce4ed;--bg:#f4f7fb}
+*{box-sizing:border-box}body{margin:0;font:15px/1.55 system-ui,-apple-system,Segoe UI,sans-serif;color:var(--ink);background:var(--bg)}
+header{background:#102642;color:white;padding:35px max(20px,calc((100vw - 1000px)/2))}header h1{font-size:clamp(22px,4vw,34px);margin:8px 0}header p{color:#c8d7e6;margin:0}
+.badge{display:inline-block;background:#ebae42;color:#172337;font-weight:800;padding:5px 12px;border-radius:50px;font-size:12px}
+main{max-width:1040px;margin:0 auto;padding:25px 20px 60px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:14px}
+.metric,.panel{background:white;border:1px solid var(--line);border-radius:13px;box-shadow:0 2px 8px #16345309}
+.metric{padding:18px;min-height:145px}small{font-weight:700;color:var(--sub);text-transform:uppercase;letter-spacing:.04em}
+.metric strong{display:block;font-size:27px;margin:8px 0}.metric span{color:var(--sub);font-size:12px}
+.panel{padding:22px;margin-top:18px}h2{margin:0 0 15px;font-size:21px}h3{font-size:15px;margin:16px 0 8px}
+.bar-row{margin:16px 0}.bar-row>div:first-child{display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}.bar-row span{color:var(--sub)}.bar-track{height:12px;background:#e9f0fa;border-radius:99px;margin-top:7px;overflow:hidden}
+.bar{height:100%;background:#2563eb;border-radius:99px}table{width:100%;border-collapse:collapse}td,th{padding:10px 5px;border-bottom:1px solid var(--line);text-align:left}th{color:var(--sub)}
+svg{width:100%;height:180px}.warning{background:#fff9ec;border-left:4px solid #df9a28}.warning li{margin:7px 0}
+footer{color:var(--sub);margin-top:20px;font-size:12px}
+</style></head>
+<body><header><span class="badge">FICTIONAL / SYNTHETIC DATA</span><h1>Restaurant Performance Snapshot</h1>
+<p>SolSystemsDev · Illustrative analytics portfolio · 2026-07-01 to 2026-07-28</p></header>
+<main><div class="grid"><section class="metric"><small>Net sales</small><strong>$56,425.47</strong><span>Gross minus order-level discounts</span></section><section class="metric"><small>Transactions</small><strong>1,602</strong><span>One transaction per order</span></section><section class="metric"><small>Average net check</small><strong>$35.22</strong><span>Net sales ÷ orders</span></section><section class="metric"><small>Discount rate</small><strong>3.1%</strong><span>Discounts ÷ gross sales</span></section><section class="metric"><small>Sales / labor hour</small><strong>$35.80</strong><span>Net sales ÷ paid hours</span></section><section class="metric"><small>Direct wage rate</small><strong>37.0%</strong><span>Hourly wages ÷ net sales</span></section><section class="metric"><small>Menu cost coverage</small><strong>84.4%</strong><span>Share of gross sales with known item costs</span></section><section class="metric"><small>Known-item COGS</small><strong>$15,230.25</strong><span>Partial cost total — not full COGS</span></section></div>
+<section class="panel"><h2>Daily net sales</h2><svg viewBox="0 0 710 165" role="img" aria-label="Trend of daily net sales"><polyline points="0.0,110.8 25.9,86.4 51.9,36.9 77.8,96.0 103.7,30.5 129.6,135.2 155.6,127.8 181.5,133.8 207.4,97.1 233.3,46.4 259.3,83.1 285.2,72.7 311.1,106.6 337.0,117.8 363.0,107.9 388.9,111.2 414.8,55.1 440.7,43.4 466.7,85.2 492.6,140.0 518.5,76.9 544.4,91.9 570.4,90.8 596.3,64.3 622.2,15.0 648.1,79.0 674.1,84.8 700.0,98.4" fill="none" stroke="#2563eb" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/></svg><small>28-day fictional sample · net of order-level discounts</small></section>
+<section class="panel"><h2>Revenue by channel</h2><div class="bar-row"><div><b>Dine-in</b><span>1015 orders · $36,392.85</span></div><div class="bar-track"><div class="bar" style="width:64.5%"></div></div></div><div class="bar-row"><div><b>Pickup</b><span>306 orders · $10,368.32</span></div><div class="bar-track"><div class="bar" style="width:18.4%"></div></div></div><div class="bar-row"><div><b>Delivery</b><span>281 orders · $9,664.30</span></div><div class="bar-track"><div class="bar" style="width:17.1%"></div></div></div></section>
+<section class="panel"><h2>Top five menu items by gross sales</h2><table><thead><tr><th>Item</th><th>Units</th><th>Gross sales</th></tr></thead><tbody><tr><td>Chicken Teriyaki</td><td>504</td><td>$9,072.00</td></tr><tr><td>Spicy Tuna Roll</td><td>591</td><td>$8,865.00</td></tr><tr><td>Salmon Roll</td><td>561</td><td>$7,854.00</td></tr><tr><td>Dragon Roll</td><td>406</td><td>$7,714.00</td></tr><tr><td>Rainbow Roll</td><td>364</td><td>$7,280.00</td></tr></tbody></table></section>
+<section class="panel warning"><h2>Data quality and interpretation</h2><ul><li>Some menu items lack unit costs. Known-item COGS is partial; no overall contribution margin is reported.</li><li>Some dine-in transactions have unknown covers. Revenue per guest is not computed.</li></ul>
+<p>Net sales exclude taxes, tips and platform fees. Labor cost represents modeled hourly wages only; no payroll taxes, benefits, occupancy or overhead are included. This is not a profit-and-loss statement.</p></section>
+<footer>Reproduce: <code>python -m src.generate_report</code> · Methodology: <code>docs/methodology.md</code> · All records are generated and do not represent a real restaurant.</footer></main></body></html>
