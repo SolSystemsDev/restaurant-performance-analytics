@@ -1,9 +1,30 @@
 # Restaurant Performance Analytics
 
-**A reproducible, end-to-end restaurant KPI demonstration using Python, Pandas, SQL, and fabricated operational data.**  
-Part of the [SolSystemsDev](https://github.com/SolSystemsDev) analytics portfolio; inspired by the business problems explored in Scientific Operations Lab.
+**Project 001 · Jonathon McDonnell · Python / pandas / SQL · Synthetic data**
 
-> **Disclosure:** Every order, shift, recipe cost, revenue amount and date in this repository is synthetic. No client, employee, or employer data is included. This is a portfolio demonstration, not a production-ready accounting or POS integration.
+A reproducible business-analytics demo translating order, menu and labor records into management KPIs, data-quality warnings and an executive-style report. The generated report is **not** an actual client or employer report.
+
+## See the work in 30 seconds
+
+![Restaurant KPI snapshot based on committed synthetic metrics](reports/restaurant_kpi_preview.svg)
+
+**Synthetic demonstration:** **$56,425.47** net sales · **1,602** orders · **$35.22** average check · **$35.80** sales per paid labor hour.
+
+**[View report source](reports/sample_performance_report.html)** · **[View methodology](docs/methodology.md)** · **[Inspect Python analytics](src/analytics.py)** · **[Inspect SQL](sql/restaurant_kpis.sql)** · **[Inspect tests](tests/test_analytics.py)**
+
+The project also contains a self-contained HTML landing page at `docs/index.html`, ready for **GitHub Pages** once Pages is enabled in repository Settings → Pages → Deploy from a branch → `main` / `/docs`. Until then, GitHub may show HTML source rather than a rendered page.
+
+### What I built
+
+- Joined order-level, line-item, menu and labor-shift records without multiplying order discounts.
+- Produced channel sales, average check, sales per paid labor hour and cost-data coverage measures.
+- Added validation for duplicate keys, missing cost data and incomplete guest counts.
+- Delivered reproducible Python/pandas logic, SQLite-compatible example queries, HTML reporting and automated tests.
+- Kept incomplete costs explicit instead of inventing contribution margin or full profitability.
+
+> **Scope:** All records and results are synthetic. The DAX definitions are illustrative; no verified Power BI `.pbix` is included.
+
+---
 
 ## What this project demonstrates
 
